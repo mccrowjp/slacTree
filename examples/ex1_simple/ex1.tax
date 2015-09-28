@@ -1,0 +1,880 @@
+x30	Acidobacteria bacterium Ellin345	Bacteria;Acidobacteria;Acidobacteriales;Acidobacteriaceae
+x31	Solibacter usitatus Ellin6076	Bacteria;Acidobacteria;Solibacteres;Solibacterales;Solibacteraceae;Solibacter
+x299	marine actinobacterium PHSC20C1	Bacteria;Actinobacteria
+x303	Acidimicrobium ferrooxidans DSM 10331	Bacteria;Actinobacteria;Acidimicrobidae;Acidimicrobiales;Acidimicrobineae;Acidimicrobiaceae;Acidimicrobium;Acidimicrobiumferrooxidans;
+x239	Streptomyces turgidiscabies Car8	Bacteria;Actinobacteria;Actinobacteria(class);Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces
+x244	Catenulispora acidiphila DSM 44928	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Catenulisporineae;Catenulisporaceae;Catenulispora;Catenulisporaacidiphila;
+x229	Corynebacterium efficiens YS-314	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium
+x230	Corynebacterium glutamicum R	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium
+x231	Corynebacterium glutamicum ATCC 13032	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium
+x232	Corynebacterium diphtheriae NCTC 13129	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium
+x233	Corynebacterium urealyticum DSM 7109	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium
+x234	Corynebacterium jeikeium K411	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Corynebacteriaceae;Corynebacterium
+x248	Gordonia bronchialis DSM 43247	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Gordoniaceae;Gordonia;Gordoniabronchialis;
+x258	Mycobacterium leprae TN	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x259	Mycobacterium ulcerans Agy99	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x260	Mycobacterium marinum M	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x261	Mycobacterium sp. KMS	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x262	Mycobacterium sp. JLS	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x263	Mycobacterium sp. MCS	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x264	Mycobacterium gilvum PYR-GCK	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x265	Mycobacterium vanbaalenii PYR-1	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x266	Mycobacterium smegmatis str. MC2 155	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x267	Mycobacterium abscessus	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium
+x256	Mycobacterium avium 104	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumaviumcomplex(MAC)
+x257	Mycobacterium avium subsp. paratuberculosis K-10	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumaviumcomplex(MAC)
+x250	Mycobacterium bovis BCG str. Pasteur 1173P2	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumtuberculosiscomplex
+x251	Mycobacterium bovis AF2122/97	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumtuberculosiscomplex
+x252	Mycobacterium tuberculosis CDC1551	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumtuberculosiscomplex
+x253	Mycobacterium tuberculosis F11	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumtuberculosiscomplex
+x254	Mycobacterium tuberculosis H37Rv	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumtuberculosiscomplex
+x255	Mycobacterium tuberculosis H37Ra	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Mycobacteriaceae;Mycobacterium;Mycobacteriumtuberculosiscomplex
+x246	Nocardia farcinica IFM 10152	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Nocardia
+x247	Rhodococcus sp. RHA1	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Nocardiaceae;Rhodococcus
+x249	Tsukamurella paurometabola DSM 20162	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Corynebacterineae;Tsukamurellaceae;Tsukamurella;Tsukamurellapaurometabola;
+x283	Acidothermus cellulolyticus 11B	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Acidothermaceae;Acidothermus
+x275	Frankia sp. EAN1pec	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Frankiaceae;Frankia
+x276	Frankia sp. CcI3	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Frankiaceae;Frankia
+x277	Frankia alni ACN14a	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Frankiaceae;Frankia
+x245	Geodermatophilus obscurus DSM 43160	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Geodermatophilaceae;Geodermatophilus;Geodermatophilusobscurus;
+x286	Kineococcus radiotolerans SRS30216	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Kineosporiaceae;Kineococcus
+x271	Nakamurella multipartita DSM 44233	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Frankineae;Nakamurellaceae;Nakamurella;Nakamurellamultipartita;
+x272	Stackebrandtia nassauensis DSM 44728	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Glycomycineae;Glycomycetaceae;Stackebrandtia;Stackebrandtianassauensis;
+x291	Beutenbergia cavernae DSM 12333	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Beutenbergiaceae;Beutenbergia;Beutenbergiacavernae;
+x288	Cellulomonas flavigena DSM 20109	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Cellulomonadaceae;Cellulomonas;Cellulomonasflavigena;
+x301	Tropheryma whipplei TW08/27	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Cellulomonadaceae;Tropheryma
+x302	Tropheryma whipplei str. Twist	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Cellulomonadaceae;Tropheryma
+x235	Brachybacterium faecium DSM 4810	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Dermabacteraceae;Brachybacterium;Brachybacteriumfaecium;
+x285	Kytococcus sedentarius DSM 20547	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Dermacoccaceae;Kytococcus;Kytococcussedentarius;
+x284	Janibacter sp. HTCC2649	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Intrasporangiaceae;Janibacter
+x289	Jonesia denitrificans DSM 20603	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Jonesiaceae;Jonesia;Jonesiadenitrificans;
+x300	Clavibacter michiganensis subsp. michiganensis NCPPB 382	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Clavibacter
+x298	Leifsonia xyli subsp. xyli str. CTCB07	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Microbacteriaceae;Leifsonia
+x292	Arthrobacter aurescens TC1	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter
+x293	Arthrobacter sp. FB24	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter
+x294	Arthrobacter chlorophenolicus A6	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Arthrobacter
+x296	Kocuria rhizophila DC2201	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Kocuria
+x297	Micrococcus luteus NCTC 2665	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Micrococcus;Micrococcusluteus;
+x295	Renibacterium salmoninarum ATCC 33209	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Micrococcaceae;Renibacterium
+x290	Xylanimonas cellulosilytica DSM 15894	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Promicromonosporaceae;Xylanimonas;Xylanimonascellulosilytica;
+x287	Sanguibacter keddieii DSM 10542	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micrococcineae;Sanguibacteraceae;Sanguibacter;Sanguibacterkeddieii;
+x273	Salinispora arenicola CNS-205	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Salinispora
+x274	Salinispora tropica CNB-440	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Micromonosporineae;Micromonosporaceae;Salinispora
+x238	Kribbella flavida DSM 17836	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Kribbella;Kribbellaflavida;
+x237	Nocardioides sp. JS614	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Nocardioidaceae;Nocardioides
+x236	Propionibacterium acnes KPA171202	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Propionibacterineae;Propionibacteriaceae;Propionibacterium
+x268	Actinosynnema mirum DSM 43827	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Actinosynnemataceae;Actinosynnema;Actinosynnemamirum;
+x270	Saccharomonospora viridis DSM 43017	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharomonospora;Saccharomonosporaviridis;
+x269	Saccharopolyspora erythraea NRRL 2338	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Saccharopolyspora
+x281	Thermobispora bispora DSM 43833	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Pseudonocardineae;Pseudonocardiaceae;Thermobispora;Thermobisporabispora;
+x240	Streptomyces coelicolor A3(2)	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces
+x241	Streptomyces ipomoeae 91-03	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces
+x242	Streptomyces avermitilis MA-4680	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces
+x243	Streptomyces griseus subsp. griseus NBRC 13350	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptomycineae;Streptomycetaceae;Streptomyces
+x278	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Nocardiopsaceae;Nocardiopsis;Nocardiopsisdassonvillei;
+x279	Thermobifida fusca YX	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Nocardiopsaceae;Thermobifida
+x282	Streptosporangium roseum DSM 43021	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Streptosporangiaceae;Streptosporangium;Streptosporangiumroseum;
+x280	Thermomonospora curvata DSM 43183	Bacteria;Actinobacteria;Actinobacteridae;Actinomycetales;Streptosporangineae;Thermomonosporaceae;Thermomonospora;Thermomonosporacurvata;
+x226	Bifidobacterium longum NCC2705	Bacteria;Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium
+x227	Bifidobacterium longum DJO10A	Bacteria;Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium
+x228	Bifidobacterium adolescentis ATCC 15703	Bacteria;Actinobacteria;Actinobacteridae;Bifidobacteriales;Bifidobacteriaceae;Bifidobacterium
+x309	Atopobium parvulum DSM 20469	Bacteria;Actinobacteria;Coriobacteridae;Coriobacteriales;Coriobacterineae;Coriobacteriaceae;Atopobium;Atopobiumparvulum;
+x307	Cryptobacterium curtum DSM 15641	Bacteria;Actinobacteria;Coriobacteridae;Coriobacteriales;Coriobacterineae;Coriobacteriaceae;Cryptobacterium;Cryptobacteriumcurtum;
+x306	Eggerthella lenta DSM 2243	Bacteria;Actinobacteria;Coriobacteridae;Coriobacteriales;Coriobacterineae;Coriobacteriaceae;Eggerthella;Eggerthellalenta;
+x308	Slackia heliotrinireducens DSM 20476	Bacteria;Actinobacteria;Coriobacteridae;Coriobacteriales;Coriobacterineae;Coriobacteriaceae;Slackia;Slackiaheliotrinireducens;
+x304	Conexibacter woesei DSM 14684	Bacteria;Actinobacteria;Rubrobacteridae;Rubrobacterales;Rubrobacterineae;Conexibacteraceae;Conexibacter;Conexibacterwoesei;
+x305	Rubrobacter xylanophilus DSM 9941	Bacteria;Actinobacteria;Rubrobacteridae;Rubrobacterales;Rubrobacterineae;Rubrobacteraceae;Rubrobacter
+x159	Aquifex aeolicus VF5	Bacteria;Aquificae;Aquificales;Aquificaceae;Aquifex
+x158	Hydrogenobaculum sp. Y04AAS1	Bacteria;Aquificae;Aquificales;Aquificaceae;Hydrogenobaculum
+x160	Sulfurihydrogenibium sp. YO3AOP1	Bacteria;Aquificae;Aquificales;Hydrogenothermaceae;Sulfurihydrogenibium
+x88	Bacteroides fragilis YCH46	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Bacteroidales;Bacteroidaceae;Bacteroides
+x89	Bacteroides fragilis NCTC 9343	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Bacteroidales;Bacteroidaceae;Bacteroides
+x90	Bacteroides thetaiotaomicron VPI-5482	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Bacteroidales;Bacteroidaceae;Bacteroides
+x91	Bacteroides vulgatus ATCC 8482	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Bacteroidales;Bacteroidaceae;Bacteroides
+x85	Parabacteroides distasonis ATCC 8503	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Bacteroidales;Porphyromonadaceae;Parabacteroides
+x86	Porphyromonas gingivalis W83	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Bacteroidales;Porphyromonadaceae;Porphyromonas
+x87	Porphyromonas gingivalis ATCC 33277	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Bacteroidales;Porphyromonadaceae;Porphyromonas
+x99	Capnocytophaga ochracea DSM 7271	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Capnocytophaga;Capnocytophagaochracea;
+x114	Dyadobacter fermentans DSM 18053	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Sphingobacteria;Sphingobacteriales;Flexibacteraceae;Dyadobacter;Dyadobacterfermentans;
+x115	Spirosoma linguale DSM 74	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Sphingobacteria;Sphingobacteriales;Flexibacteraceae;Spirosoma;Spirosomalinguale;
+x110	Pedobacter heparinus DSM 2366	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Sphingobacteria;Sphingobacteriales;Sphingobacteriaceae;Pedobacter;Pedobacterheparinus;
+x111	Chitinophaga pinensis DSM 2588	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Sphingobacteria;Sphingobacteriales;Sphingobacterialesgeneraincertaesedis;Chitinophaga;Chitinophagapinensis;
+x118	Rhodothermus marinus DSM 4252	Bacteria;Bacteroidetes/Chlorobigroup;Bacteroidetes;Sphingobacteria;Sphingobacteriales;Sphingobacterialesgeneraincertaesedis;Rhodothermus;Rhodothermusmarinus;
+x113	Candidatus Amoebophilus asiaticus 5a2	Bacteria;Bacteroidetes/Chlorobigroup;CandidatusAmoebophilus
+x80	Chlorobaculum parvum NCIB 8327	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobaculum
+x81	Chlorobium tepidum TLS	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobaculum
+x75	Chlorobium chlorochromatii CaD3	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Chlorobium
+x77	Prosthecochloris vibrioformis DSM 265	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Chlorobium
+x78	Chlorobium limicola DSM 245	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Chlorobium
+x79	Chlorobium phaeobacteroides DSM 266	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Chlorobium
+x82	Chlorobium phaeobacteroides BS1	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Chlorobium
+x73	Chlorobium ferrooxidans DSM 13031	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Chlorobium;Chlorobiumferrooxidans;
+x74	Pelodictyon phaeoclathratiforme BU-1	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Pelodictyon
+x76	Pelodictyon luteolum DSM 273	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chlorobium/Pelodictyongroup;Pelodictyon
+x84	Chloroherpeton thalassium ATCC 35110	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Chloroherpeton
+x83	Prosthecochloris aestuarii DSM 271	Bacteria;Bacteroidetes/Chlorobigroup;Chlorobia;Chlorobiales;Chlorobiaceae;Prosthecochloris
+x101	unidentified eubacterium SCB49	Bacteria;Bacteroidetes/Chlorobigroup;environmentalsamples
+x100	Flavobacteria bacterium BBFL7	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria
+x106	Flavobacteriales bacterium ALC-1	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales
+x94	Flavobacteria bacterium BAL38	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales
+x95	Flavobacteriales bacterium HTCC2170	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales
+x108	Candidatus Sulcia muelleri GWSS	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;CandidatusSulcia
+x105	Croceibacter atlanticus HTCC2559	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Croceibacter
+x103	Dokdonia donghaensis MED134	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Dokdonia
+x92	Flavobacterium johnsoniae UW101	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Flavobacterium
+x93	Flavobacterium psychrophilum JIP02/86	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Flavobacterium
+x104	Gramella forsetii KT0803	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Gramella
+x102	Leeuwenhoekiella blandensis MED217	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Leeuwenhoekiella
+x97	Polaribacter dokdonensis MED152	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Polaribacter
+x98	Polaribacter irgensii 23-P	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Polaribacter
+x107	Psychroflexus torquis ATCC 700755	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Psychroflexus
+x96	Robiginitalea biformata HTCC2501	Bacteria;Bacteroidetes/Chlorobigroup;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Robiginitalea
+x112	Algoriphagus sp. PR1	Bacteria;Bacteroidetes/Chlorobigroup;Sphingobacteria;Sphingobacteriales;Flexibacteraceae;Algoriphagus
+x117	Cytophaga hutchinsonii ATCC 33406	Bacteria;Bacteroidetes/Chlorobigroup;Sphingobacteria;Sphingobacteriales;Flexibacteraceae;Cytophaga
+x116	Microscilla marina ATCC 23134	Bacteria;Bacteroidetes/Chlorobigroup;Sphingobacteria;Sphingobacteriales;Flexibacteraceae;Microscilla
+x109	Pedobacter sp. BAL39	Bacteria;Bacteroidetes/Chlorobigroup;Sphingobacteria;Sphingobacteriales;Sphingobacteriaceae;Pedobacter
+x119	Salinibacter ruber DSM 13855	Bacteria;Bacteroidetes/Chlorobigroup;Sphingobacteria;Sphingobacteriales;Sphingobacterialesgeneraincertaesedis;Salinibacter
+x57	Elusimicrobium minutum Pei191	Bacteria;candidatedivisionTG1;Elusimicrobium
+x135	Chlamydia trachomatis A/HAR-13	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydia
+x136	Chlamydia trachomatis D/UW-3/CX	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydia
+x137	Chlamydia trachomatis L2b/UCH-1/proctitis	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydia
+x138	Chlamydia trachomatis 434/Bu	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydia
+x139	Chlamydia muridarum Nigg	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydia
+x128	Chlamydophila felis Fe/C-56	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydophila
+x129	Chlamydophila abortus S26/3	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydophila
+x130	Chlamydophila caviae GPIC	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydophila
+x131	Chlamydophila pneumoniae TW-183	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydophila
+x132	Chlamydophila pneumoniae J138	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydophila
+x133	Chlamydophila pneumoniae AR39	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydophila
+x134	Chlamydophila pneumoniae CWL029	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Chlamydiaceae;Chlamydophila
+x140	Candidatus Protochlamydia amoebophila UWE25	Bacteria;Chlamydiae/Verrucomicrobiagroup;Chlamydiales;Parachlamydiaceae;CandidatusProtochlamydia
+x126	Opitutus terrae PB90-1	Bacteria;Chlamydiae/Verrucomicrobiagroup;Opitutae;Opitutales;Opitutaceae;Opitutus
+x124	Methylacidiphilum infernorum V4	Bacteria;Chlamydiae/Verrucomicrobiagroup;Verrucomicrobia;Methylacidiphilum
+x127	Opitutaceae bacterium TAV2	Bacteria;Chlamydiae/Verrucomicrobiagroup;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae;unclassifiedOpitutaceae;
+x121	Chthoniobacter flavus Ellin428	Bacteria;Chlamydiae/Verrucomicrobiagroup;Verrucomicrobia;Spartobacteria;Chthoniobacter;Chthoniobacterflavus;
+x123	Verrucomicrobium spinosum DSM 4136	Bacteria;Chlamydiae/Verrucomicrobiagroup;Verrucomicrobia;Verrucomicrobia;Verrucomicrobiales;Verrucomicrobiaceae;Verrucomicrobium;Verrucomicrobiumspinosum
+x125	bacterium Ellin514	Bacteria;Chlamydiae/Verrucomicrobiagroup;Verrucomicrobia;Verrucomicrobia;Verrucomicrobiales;Verrucomicrobiasubdivision3;
+x122	Akkermansia muciniphila ATCC BAA-835	Bacteria;Chlamydiae/Verrucomicrobiagroup;Verrucomicrobia;Verrucomicrobiales;Verrucomicrobiaceae;Akkermansia
+x171	Chloroflexus aurantiacus J-10-fl	Bacteria;Chloroflexi;Chloroflexales;Chloroflexaceae;Chloroflexus
+x172	Chloroflexus aggregans DSM 9485	Bacteria;Chloroflexi;Chloroflexales;Chloroflexaceae;Chloroflexus
+x173	Roseiflexus sp. RS-1	Bacteria;Chloroflexi;Chloroflexales;Chloroflexaceae;Roseiflexus
+x174	Roseiflexus castenholzii DSM 13941	Bacteria;Chloroflexi;Chloroflexales;Chloroflexaceae;Roseiflexus
+x175	Dehalococcoides ethenogenes 195	Bacteria;Chloroflexi;Dehalococcoidetes;Dehalococcoides
+x176	Dehalococcoides sp. BAV1	Bacteria;Chloroflexi;Dehalococcoidetes;Dehalococcoides
+x177	Dehalococcoides sp. CBDB1	Bacteria;Chloroflexi;Dehalococcoidetes;Dehalococcoides
+x178	Dehalococcoides sp. VS	Bacteria;Chloroflexi;Dehalococcoidetes;Dehalococcoides;
+x170	Herpetosiphon aurantiacus ATCC 23779	Bacteria;Chloroflexi;Herpetosiphonales;Herpetosiphonaceae;Herpetosiphon
+x169	Sphaerobacter thermophilus DSM 20745	Bacteria;Chloroflexi;Thermomicrobia(class);Sphaerobacteridae;Sphaerobacterales;Sphaerobacterineae;Sphaerobacteraceae;Sphaerobacter;Sphaerobacterthermophilus;
+x168	Thermomicrobium roseum DSM 5159	Bacteria;Chloroflexi;Thermomicrobiales;Thermomicrobiaceae;Thermomicrobium
+x29	Chrysiogenes arsenatis DSM 11915	Bacteria;Chrysiogenetes;Chrysiogenetes(class);Chrysiogenales;Chrysiogenaceae;Chrysiogenes;Chrysiogenesarsenatis
+x198	Acaryochloris marina MBIC11017	Bacteria;Cyanobacteria;Acaryochloris
+x181	Crocosphaera watsonii WH 8501	Bacteria;Cyanobacteria;Chroococcales;Crocosphaera;Crocosphaerawatsonii;
+x182	Cyanothece sp. CCY0110	Bacteria;Cyanobacteria;Chroococcales;Cyanothece
+x183	Cyanothece sp. ATCC 51142	Bacteria;Cyanobacteria;Chroococcales;Cyanothece
+x184	Cyanothece sp. PCC 8801	Bacteria;Cyanobacteria;Chroococcales;Cyanothece
+x188	Cyanothece sp. PCC 7424	Bacteria;Cyanobacteria;Chroococcales;Cyanothece
+x197	Cyanothece sp. PCC 7425	Bacteria;Cyanobacteria;Chroococcales;Cyanothece
+x185	Cyanothece sp. PCC 8802	Bacteria;Cyanobacteria;Chroococcales;Cyanothece;
+x189	Cyanothece sp. PCC 7822	Bacteria;Cyanobacteria;Chroococcales;Cyanothece;
+x187	Microcystis aeruginosa NIES-843	Bacteria;Cyanobacteria;Chroococcales;Microcystis
+x179	Synechococcus sp. JA-2-3Ba(2-13)	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x180	Synechococcus sp. JA-3-3Ab	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x190	Synechococcus sp. PCC 7002	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x200	Synechococcus elongatus PCC 7942	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x201	Synechococcus elongatus PCC 6301	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x202	Synechococcus sp. RCC307	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x203	Synechococcus sp. WH 5701	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x210	Synechococcus sp. WH 7805	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x211	Synechococcus sp. WH 7803	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x212	Synechococcus sp. CC9311	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x213	Synechococcus sp. WH 8102	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x214	Synechococcus sp. CC9605	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x215	Synechococcus sp. CC9902	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x216	Synechococcus sp. BL107	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x217	Synechococcus sp. RS9916	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x218	Synechococcus sp. RS9917	Bacteria;Cyanobacteria;Chroococcales;Synechococcus
+x186	Synechocystis sp. PCC 6803	Bacteria;Cyanobacteria;Chroococcales;Synechocystis
+x199	Thermosynechococcus elongatus BP-1	Bacteria;Cyanobacteria;Chroococcales;Thermosynechococcus
+x225	Gloeobacter violaceus PCC 7421	Bacteria;Cyanobacteria;Gloeobacteria;Gloeobacterales;Gloeobacter
+x192	Anabaena variabilis ATCC 29413	Bacteria;Cyanobacteria;Nostocales;Nostocaceae;Anabaena
+x194	Nodularia spumigena CCY9414	Bacteria;Cyanobacteria;Nostocales;Nostocaceae;Nodularia
+x191	Nostoc sp. PCC 7120	Bacteria;Cyanobacteria;Nostocales;Nostocaceae;Nostoc
+x193	Nostoc punctiforme PCC 73102	Bacteria;Cyanobacteria;Nostocales;Nostocaceae;Nostoc
+x195	Lyngbya sp. PCC 8106	Bacteria;Cyanobacteria;Oscillatoriales;Lyngbya
+x196	Trichodesmium erythraeum IMS101	Bacteria;Cyanobacteria;Oscillatoriales;Trichodesmium
+x204	Prochlorococcus marinus subsp. marinus str. CCMP1375	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x205	Prochlorococcus marinus str. MIT 9211	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x206	Prochlorococcus marinus str. NATL1A	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x207	Prochlorococcus marinus str. NATL2A	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x208	Prochlorococcus marinus str. MIT 9313	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x209	Prochlorococcus marinus str. MIT 9303	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x219	Prochlorococcus marinus subsp. pastoris str. CCMP1986	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x220	Prochlorococcus marinus str. MIT 9515	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x221	Prochlorococcus marinus str. MIT 9312	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x222	Prochlorococcus marinus str. MIT 9301	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x223	Prochlorococcus marinus str. AS9601	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x224	Prochlorococcus marinus str. MIT 9215	Bacteria;Cyanobacteria;Prochlorales;Prochlorococcaceae;Prochlorococcus
+x56	Denitrovibrio acetiphilus DSM 12809	Bacteria;Deferribacteres;Deferribacteres(class);Deferribacterales;Deferribacteraceae;Denitrovibrio;Denitrovibrioacetiphilus;
+x166	Deinococcus geothermalis DSM 11300	Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Deinococcaceae;Deinococcus
+x167	Deinococcus radiodurans R1	Bacteria;Deinococcus-Thermus;Deinococci;Deinococcales;Deinococcaceae;Deinococcus
+x165	Meiothermus ruber DSM 1279	Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Meiothermus;Meiothermusruber;
+x164	Meiothermus silvanus DSM 9946	Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Meiothermus;Meiothermussilvanus;
+x161	Thermus thermophilus HB8	Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Thermus
+x162	Thermus thermophilus HB27	Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Thermus
+x163	Thermus aquaticus Y51MC23	Bacteria;Deinococcus-Thermus;Deinococci;Thermales;Thermaceae;Thermus;Thermusaquaticus;
+x157	Dictyoglomus thermophilum H-6-12	Bacteria;Dictyoglomi;Dictyoglomales;Dictyoglomaceae;Dictyoglomus
+x311	Bacillus sp. NRRL B-14911	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x312	Bacillus sp. SG-1	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x327	Bacillus subtilis subsp. subtilis str. 168	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x328	Bacillus amyloliquefaciens FZB42	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x329	Bacillus pumilus SAFR-032	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x330	Bacillus licheniformis ATCC 14580	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x412	Bacillus sp. B14905	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x414	Bacillus clausii KSM-K16	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x415	Bacillus halodurans C-125	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus
+x317	Bacillus cereus subsp. cytotoxis NVH 391-98	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x318	Bacillus weihenstephanensis KBAB4	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x319	Bacillus cereus ATCC 14579	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x320	Bacillus thuringiensis str. Al Hakam	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x321	Bacillus thuringiensis serovar konkukian str. 97-27	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x322	Bacillus anthracis str. Ames Ancestor	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x323	Bacillus anthracis str. Ames	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x324	Bacillus anthracis str. Sterne	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x325	Bacillus cereus E33L	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x326	Bacillus cereus ATCC 10987	Bacteria;Firmicutes;Bacillales;Bacillaceae;Bacillus;Bacilluscereusgroup
+x416	Exiguobacterium sibiricum 255-15	Bacteria;Firmicutes;Bacillales;Bacillaceae;Exiguobacterium
+x314	Geobacillus thermodenitrificans NG80-2	Bacteria;Firmicutes;Bacillales;Bacillaceae;Geobacillus
+x315	Geobacillus kaustophilus HTA426	Bacteria;Firmicutes;Bacillales;Bacillaceae;Geobacillus
+x411	Lysinibacillus sphaericus C3-41	Bacteria;Firmicutes;Bacillales;Bacillaceae;Lysinibacillus
+x310	Oceanobacillus iheyensis HTE831	Bacteria;Firmicutes;Bacillales;Bacillaceae;Oceanobacillus
+x331	Listeria welshimeri serovar 6b str. SLCC5334	Bacteria;Firmicutes;Bacillales;Listeriaceae;Listeria
+x332	Listeria monocytogenes EGD-e	Bacteria;Firmicutes;Bacillales;Listeriaceae;Listeria
+x333	Listeria innocua Clip11262	Bacteria;Firmicutes;Bacillales;Listeriaceae;Listeria
+x334	Listeria monocytogenes str. 4b F2365	Bacteria;Firmicutes;Bacillales;Listeriaceae;Listeria
+x393	Staphylococcus aureus subsp. aureus MW2	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x394	Staphylococcus aureus subsp. aureus str. Newman	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x395	Staphylococcus aureus subsp. aureus USA300_TCH1516	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x396	Staphylococcus aureus RF122	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x397	Staphylococcus aureus subsp. aureus MSSA476	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x398	Staphylococcus aureus subsp. aureus MRSA252	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x399	Staphylococcus aureus subsp. aureus NCTC 8325	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x400	Staphylococcus aureus subsp. aureus N315	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x401	Staphylococcus aureus subsp. aureus JH9	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x402	Staphylococcus aureus subsp. aureus JH1	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x403	Staphylococcus aureus subsp. aureus Mu50	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x404	Staphylococcus aureus subsp. aureus Mu3	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x405	Staphylococcus aureus subsp. aureus COL	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x406	Staphylococcus aureus subsp. aureus USA300	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x407	Staphylococcus haemolyticus JCSC1435	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x408	Staphylococcus epidermidis ATCC 12228	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x409	Staphylococcus epidermidis RP62A	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x410	Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305	Bacteria;Firmicutes;Bacillales;Staphylococcus
+x419	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446	Bacteria;Firmicutes;Bacilli;Bacillales;Alicyclobacillaceae;Alicyclobacillus;Alicyclobacillusacidocaldarius;Alicyclobacillusacidocaldariussubsp.acidocaldarius;
+x413	Bacillus coagulans 36D1	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacilluscoagulans;
+x313	Geobacillus sp. G11MC16	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus;
+x316	Geobacillus sp. WCH70	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus;
+x418	Geobacillus sp. Y412MC10	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Geobacillus;
+x417	Exiguobacterium sp. AT1b	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillalesincertaesedis;BacillalesFamilyXII.IncertaeSedis;Exiguobacterium;
+x445	Alkaliphilus oremlandii OhILAs	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Alkaliphilus
+x446	Alkaliphilus metalliredigens QYMF	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Alkaliphilus
+x424	Clostridium thermocellum ATCC 27405	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x426	Clostridium cellulolyticum H10	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x427	Clostridium acetobutylicum ATCC 824	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x428	Clostridium novyi NT	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x429	Clostridium botulinum A3 str. Loch Maree	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x430	Clostridium botulinum B1 str. Okra	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x431	Clostridium botulinum A str. ATCC 3502	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x432	Clostridium botulinum A str. ATCC 19397	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x433	Clostridium botulinum A str. Hall	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x434	Clostridium botulinum F str. Langeland	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x435	Clostridium kluyveri DSM 555	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x436	Clostridium botulinum B str. Eklund 17B	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x437	Clostridium botulinum E3 str. Alaska E43	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x438	Clostridium beijerinckii NCIMB 8052	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x439	Clostridium perfringens str. 13	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x440	Clostridium perfringens SM101	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x441	Clostridium perfringens ATCC 13124	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x442	Clostridium tetani E88	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x447	Clostridium phytofermentans ISDg	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x448	Clostridium difficile 630	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium
+x425	Clostridium thermocellum DSM 4150	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridiaceae;Clostridium;Clostridiumthermocellum;
+x444	Anaerococcus prevotii DSM 20548	Bacteria;Firmicutes;Clostridia;Clostridiales;Clostridialesincertaesedis;ClostridialesFamilyXI.IncertaeSedis;Anaerococcus;Anaerococcusprevotii;
+x460	Heliobacterium modesticaldum Ice1	Bacteria;Firmicutes;Clostridia;Clostridiales;Heliobacteriaceae;Heliobacterium
+x458	Candidatus Desulforudis audaxviator MP104C	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;CandidatusDesulforudis
+x454	Carboxydothermus hydrogenoformans Z-2901	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Carboxydothermus
+x461	Desulfitobacterium hafniense Y51	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfitobacterium
+x455	Desulfotomaculum reducens MI-1	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfotomaculum
+x456	Desulfotomaculum acetoxidans DSM 771	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Desulfotomaculum;Desulfotomaculumacetoxidans;
+x457	Pelotomaculum thermopropionicum SI	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptococcaceae;Pelotomaculum
+x443	Finegoldia magna ATCC 29328	Bacteria;Firmicutes;Clostridia;Clostridiales;Peptostreptococcaceae;Finegoldia
+x420	Caldicellulosiruptor saccharolyticus DSM 8903	Bacteria;Firmicutes;Clostridia;Clostridiales;Syntrophomonadaceae;Caldicellulosiruptor
+x451	Syntrophomonas wolfei subsp. wolfei str. Goettingen	Bacteria;Firmicutes;Clostridia;Clostridiales;Syntrophomonadaceae;Syntrophomonas
+x453	Thermosinus carboxydivorans Nor1	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Thermosinus;Thermosinuscarboxydivorans;
+x452	Veillonella parvula DSM 2008	Bacteria;Firmicutes;Clostridia;Clostridiales;Veillonellaceae;Veillonella;Veillonellaparvula;
+x449	Halothermothrix orenii H 168	Bacteria;Firmicutes;Clostridia;Halanaerobiales;Halanaerobiaceae;Halothermothrix
+x450	Natranaerobius thermophilus JW/NM-WN-LF	Bacteria;Firmicutes;Clostridia;Natranaerobiales;Natranaerobiaceae;Natranaerobius
+x156	Coprothermobacter proteolyticus DSM 5265	Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermodesulfobiaceae;Coprothermobacter
+x459	Moorella thermoacetica ATCC 39073	Bacteria;Firmicutes;Clostridia;Thermoanaerobacteriales;Thermoanaerobacteriaceae;Moorellagroup;Moorella
+x421	Thermoanaerobacter tengcongensis MB4	Bacteria;Firmicutes;Clostridia;Thermoanaerobacteriales;Thermoanaerobacteriaceae;Thermoanaerobacter
+x422	Thermoanaerobacter sp. X514	Bacteria;Firmicutes;Clostridia;Thermoanaerobacteriales;Thermoanaerobacteriaceae;Thermoanaerobacter
+x423	Thermoanaerobacter pseudethanolicus ATCC 33223	Bacteria;Firmicutes;Clostridia;Thermoanaerobacteriales;Thermoanaerobacteriaceae;Thermoanaerobacter
+x373	Enterococcus faecalis V583	Bacteria;Firmicutes;Lactobacillales;Enterococcaceae;Enterococcus
+x374	Lactobacillus casei ATCC 334	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x375	Lactobacillus casei BL23	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x376	Lactobacillus helveticus DPC 4571	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x377	Lactobacillus acidophilus NCFM	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x378	Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x379	Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x380	Lactobacillus johnsonii NCC 533	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x381	Lactobacillus gasseri ATCC 33323	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x382	Lactobacillus sakei subsp. sakei 23K	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x387	Lactobacillus plantarum WCFS1	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x388	Lactobacillus reuteri F275	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x389	Lactobacillus reuteri DSM 20016	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x390	Lactobacillus fermentum IFO 3956	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x391	Lactobacillus brevis ATCC 367	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x392	Lactobacillus salivarius subsp. salivarius UCC118	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Lactobacillus
+x386	Pediococcus pentosaceus ATCC 25745	Bacteria;Firmicutes;Lactobacillales;Lactobacillaceae;Pediococcus
+x383	Leuconostoc citreum KM20	Bacteria;Firmicutes;Lactobacillales;Leuconostoc
+x384	Leuconostoc mesenteroides subsp. mesenteroides ATCC 8293	Bacteria;Firmicutes;Lactobacillales;Leuconostoc
+x385	Oenococcus oeni PSU-1	Bacteria;Firmicutes;Lactobacillales;Oenococcus
+x370	Lactococcus lactis subsp. cremoris MG1363	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Lactococcus
+x371	Lactococcus lactis subsp. cremoris SK11	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Lactococcus
+x372	Lactococcus lactis subsp. lactis Il1403	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Lactococcus
+x335	Streptococcus agalactiae 2603V/R	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x336	Streptococcus agalactiae 18RS21	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x337	Streptococcus agalactiae 515	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x338	Streptococcus agalactiae A909	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x339	Streptococcus agalactiae NEM316	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x340	Streptococcus agalactiae H36B	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x341	Streptococcus agalactiae COH1	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x342	Streptococcus agalactiae CJB111	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x343	Streptococcus pyogenes MGAS315	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x344	Streptococcus pyogenes SSI-1	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x345	Streptococcus pyogenes MGAS10270	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x346	Streptococcus pyogenes MGAS2096	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x347	Streptococcus pyogenes MGAS9429	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x348	Streptococcus pyogenes MGAS8232	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x349	Streptococcus pyogenes str. Manfredo	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x350	Streptococcus pyogenes MGAS10394	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x351	Streptococcus pyogenes MGAS6180	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x352	Streptococcus pyogenes M1 GAS	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x353	Streptococcus pyogenes MGAS10750	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x354	Streptococcus pyogenes MGAS5005	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x355	Streptococcus equi subsp. zooepidemicus MGCS10565	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x356	Streptococcus thermophilus CNRZ1066	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x357	Streptococcus thermophilus LMG 18311	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x358	Streptococcus thermophilus LMD-9	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x359	Streptococcus mutans UA159	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x360	Streptococcus pneumoniae CGSP14	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x361	Streptococcus pneumoniae R6	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x362	Streptococcus pneumoniae D39	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x363	Streptococcus pneumoniae Hungary19A-6	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x364	Streptococcus pneumoniae TIGR4	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x365	Streptococcus pneumoniae G54	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x366	Streptococcus sanguinis SK36	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x367	Streptococcus gordonii str. Challis substr. CH1	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x368	Streptococcus suis 98HAH33	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x369	Streptococcus suis 05ZYH33	Bacteria;Firmicutes;Lactobacillales;Streptococcaceae;Streptococcus
+x462	Symbiobacterium thermophilum IAM 14863	Bacteria;Firmicutes;Lactobacillales;Symbiobacterium
+x471	Acholeplasma laidlawii PG-8A	Bacteria;Firmicutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;Acholeplasma
+x469	Onion yellows phytoplasma OY-M	Bacteria;Firmicutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;CandidatusPhytoplasma;CandidatusPhytoplasmaasteris
+x470	Aster yellows witches-broom phytoplasma AYWB	Bacteria;Firmicutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;CandidatusPhytoplasma;CandidatusPhytoplasmaasteris
+x474	Mesoplasma florum L1	Bacteria;Firmicutes;Mollicutes;Entomoplasmatales;Entomoplasmataceae;Mesoplasma
+x472	Mycoplasma capricolum subsp. capricolum ATCC 27343	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x473	Mycoplasma mycoides subsp. mycoides SC str. PG1	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x475	Mycoplasma agalactiae PG2	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x476	Mycoplasma synoviae 53	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x477	Mycoplasma pulmonis UAB CTIP	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x479	Mycoplasma mobile 163K	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x480	Mycoplasma hyopneumoniae 7448	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x481	Mycoplasma hyopneumoniae 232	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x482	Mycoplasma hyopneumoniae J	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x483	Mycoplasma penetrans HF-2	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x484	Mycoplasma pneumoniae M129	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x485	Mycoplasma genitalium G37	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x486	Mycoplasma gallisepticum R	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x487	Ureaplasma parvum serovar 3 str. ATCC 700970	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Ureaplasma
+x488	Ureaplasma parvum serovar 3 str. ATCC 27815	Bacteria;Firmicutes;Mollicutes;Mycoplasmataceae;Ureaplasma
+x466	Fusobacterium nucleatum subsp. nucleatum ATCC 25586	Bacteria;Fusobacteria;Fusobacteria(class);Fusobacteriales;Fusobacteriaceae;Fusobacterium
+x464	Leptotrichia buccalis DSM 1135	Bacteria;Fusobacteria;Fusobacteria(class);Fusobacteriales;Fusobacteriaceae;Leptotrichia;Leptotrichiabuccalis;
+x465	Sebaldella termitidis ATCC 33386	Bacteria;Fusobacteria;Fusobacteria(class);Fusobacteriales;Fusobacteriaceae;Sebaldella;Sebaldellatermitidis;
+x463	Streptobacillus moniliformis DSM 12112	Bacteria;Fusobacteria;Fusobacteria(class);Fusobacteriales;Fusobacteriaceae;Streptobacillus;Streptobacillusmoniliformis;
+x120	Lentisphaera araneosa HTCC2155	Bacteria;Lentisphaerae;Lentisphaerales;Lentisphaera
+x32	Thermodesulfovibrio yellowstonii DSM 11347	Bacteria;Nitrospirae;Nitrospirales;Nitrospiraceae;Thermodesulfovibrio
+x141	Blastopirellula marina DSM 3645	Bacteria;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae;Blastopirellula
+x145	Gemmata obscuriglobus UQM 2246	Bacteria;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae;Gemmata;Gemmataobscuriglobus
+x144	Planctomyces maris DSM 8797	Bacteria;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae;Planctomyces
+x143	Planctomyces limnophilus DSM 3776	Bacteria;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae;Planctomyces;Planctomyceslimnophilus;
+x142	Rhodopirellula baltica SH 1	Bacteria;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae;Rhodopirellula
+x614	alpha proteobacterium HTCC2255	Bacteria;Proteobacteria;Alphaproteobacteria
+x811	Caulobacter crescentus CB15	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter
+x812	Caulobacter sp. K31	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Caulobacter
+x810	Phenylobacterium zucineum HLK1	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Caulobacteraceae;Phenylobacterium
+x815	Parvularcula bermudensis HTCC2503	Bacteria;Proteobacteria;Alphaproteobacteria;Parvularculales;Parvularculaceae;Parvularcula
+x783	Aurantimonas sp. SI85-9A1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Aurantimonadaceae;Aurantimonas
+x784	Fulvimarina pelagi HTCC2506	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Aurantimonadaceae;Fulvimarina
+x794	Bartonella bacilliformis KC583	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bartonellaceae;Bartonella
+x795	Bartonella quintana str. Toulouse	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bartonellaceae;Bartonella
+x796	Bartonella henselae str. Houston-1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bartonellaceae;Bartonella
+x797	Bartonella tribocorum CIP 105476	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bartonellaceae;Bartonella
+x780	Beijerinckia indica subsp. indica ATCC 9039	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Beijerinckia
+x781	Methylocella silvestris BL2	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Beijerinckiaceae;Methylocella
+x765	Bradyrhizobium sp. BTAi1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium
+x766	Bradyrhizobium sp. ORS278	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium
+x767	Bradyrhizobium japonicum USDA 110	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Bradyrhizobium
+x762	Nitrobacter winogradskyi Nb-255	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Nitrobacter
+x763	Nitrobacter sp. Nb-311A	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Nitrobacter
+x764	Nitrobacter hamburgensis X14	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Nitrobacter
+x768	Rhodopseudomonas palustris BisB18	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas
+x769	Rhodopseudomonas palustris BisA53	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas
+x770	Rhodopseudomonas palustris HaA2	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas
+x771	Rhodopseudomonas palustris BisB5	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas
+x772	Rhodopseudomonas palustris CGA009	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas
+x773	Rhodopseudomonas palustris TIE-1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Bradyrhizobiaceae;Rhodopseudomonas
+x786	Brucella abortus S19	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x787	Brucella abortus biovar 1 str. 9-941	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x788	Brucella melitensis 16M	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x789	Brucella melitensis biovar Abortus 2308	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x790	Brucella suis ATCC 23445	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x791	Brucella canis ATCC 23365	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x792	Brucella suis 1330	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x793	Brucella ovis ATCC 25840	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Brucella
+x785	Ochrobactrum anthropi ATCC 49188	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Brucellaceae;Ochrobactrum
+x774	Methylobacterium extorquens PA1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium
+x775	Methylobacterium chloromethanicum CM4	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium
+x776	Methylobacterium populi BJ001	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium
+x777	Methylobacterium radiotolerans JCM 2831	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium
+x778	Methylobacterium nodulans ORS 2060	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium
+x779	Methylobacterium sp. 4-46	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylobacteriaceae;Methylobacterium
+x798	Mesorhizobium loti MAFF303099	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium
+x799	Mesorhizobium sp. BNC1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Mesorhizobium
+x808	Parvibaculum lavamentivorans DS-1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Phyllobacteriaceae;Parvibaculum
+x805	Agrobacterium tumefaciens str. C58	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium/Agrobacteriumgroup;Agrobacterium
+x800	Rhizobium etli CIAT 652	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium/Agrobacteriumgroup;Rhizobium
+x801	Rhizobium etli CFN 42	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium/Agrobacteriumgroup;Rhizobium
+x802	Rhizobium leguminosarum bv. trifolii WSM2304	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium/Agrobacteriumgroup;Rhizobium
+x804	Rhizobium leguminosarum bv. viciae 3841	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium/Agrobacteriumgroup;Rhizobium
+x803	Rhizobium leguminosarum bv. trifolii WSM1325	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Rhizobium/Agrobacteriumgroup;Rhizobium;Rhizobiumleguminosarum;Rhizobiumleguminosarumbv.trifolii;
+x806	Sinorhizobium medicae WSM419	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Sinorhizobium/Ensifergroup;Sinorhizobium
+x807	Sinorhizobium meliloti 1021	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Rhizobiaceae;Sinorhizobium/Ensifergroup;Sinorhizobium
+x760	Azorhizobium caulinodans ORS 571	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Azorhizobium
+x761	Xanthobacter autotrophicus Py2	Bacteria;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae;Xanthobacter
+x820	Rhodobacterales bacterium HTCC2150	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales
+x833	Rhodobacterales bacterium HTCC2654	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales
+x809	Hyphomonas neptunium ATCC 15444	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Hyphomonadaceae;Hyphomonas
+x813	Maricaulis maris MCS10	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Hyphomonadaceae;Maricaulis
+x814	Oceanicaulis alexandrii HTCC2633	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Hyphomonadaceae;Oceanicaulis
+x818	Dinoroseobacter shibae DFL 12	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Dinoroseobacter
+x819	Jannaschia sp. CCS1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Jannaschia
+x834	Loktanella vestfoldensis SKA53	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Loktanella
+x832	Oceanicola batsensis HTCC2597	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Oceanicola
+x836	Oceanicola granulosus HTCC2516	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Oceanicola
+x840	Paracoccus denitrificans PD1222	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Paracoccus
+x837	Rhodobacter sphaeroides 2.4.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter
+x838	Rhodobacter sphaeroides ATCC 17029	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter
+x839	Rhodobacter sphaeroides ATCC 17025	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Rhodobacter
+x821	Roseobacter denitrificans OCh 114	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseobacter
+x826	Roseobacter sp. AzwK-3b	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseobacter
+x829	Roseobacter sp. MED193	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseobacter
+x830	Roseobacter sp. SK209-2-6	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseobacter
+x835	Roseobacter sp. CCS2	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseobacter
+x817	Roseovarius sp. HTCC2601	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius
+x824	Roseovarius sp. TM1035	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius
+x825	Roseovarius sp. 217	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius
+x827	Roseovarius nubinhibens ISM	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Roseovarius
+x816	Sagittula stellata E-37	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sagittula
+x828	Silicibacter sp. TM1040	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Silicibacter
+x831	Silicibacter pomeroyi DSS-3	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Silicibacter
+x782	Stappia aggregata IAM 12614	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Stappia
+x822	Sulfitobacter sp. NAS-14.1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter
+x823	Sulfitobacter sp. EE-36	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter
+x844	Acidiphilium cryptum JF-5	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Acidiphilium
+x842	Gluconacetobacter diazotrophicus PAl 5	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconacetobacter
+x841	Gluconobacter oxydans 621H	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Gluconobacter
+x843	Granulibacter bethesdensis CGDNIH1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae;Granulibacter
+x845	Magnetospirillum magneticum AMB-1	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetospirillum
+x846	Rhodospirillum rubrum ATCC 11170	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum
+x872	Anaplasma marginale str. St. Maries	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Anaplasma
+x873	Anaplasma phagocytophilum HZ	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Anaplasma;phagocytophilumgroup
+x868	Ehrlichia ruminantium str. Gardel	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Ehrlichia
+x869	Ehrlichia ruminantium str. Welgevonden	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Ehrlichia
+x870	Ehrlichia chaffeensis str. Arkansas	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Ehrlichia
+x871	Ehrlichia canis str. Jake	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Ehrlichia
+x877	Neorickettsia sennetsu str. Miyayama	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Anaplasmataceae;Neorickettsia
+x866	Orientia tsutsugamushi str. Ikeda	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Orientia
+x867	Orientia tsutsugamushi Boryong	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Orientia
+x864	Rickettsia bellii RML369-C	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia
+x865	Rickettsia bellii OSU 85-389	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia
+x855	Rickettsia felis URRWXCal2	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;spottedfevergroup
+x856	Rickettsia rickettsii str. Sheila Smith	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;spottedfevergroup
+x857	Rickettsia rickettsii str. Iowa	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;spottedfevergroup
+x858	Rickettsia massiliae MTU5	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;spottedfevergroup
+x859	Rickettsia conorii str. Malish 7	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;spottedfevergroup
+x860	Rickettsia akari str. Hartford	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;spottedfevergroup
+x861	Rickettsia typhi str. Wilmington	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;typhusgroup
+x862	Rickettsia prowazekii str. Madrid E	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;typhusgroup
+x863	Rickettsia canadensis str. McKiel	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Rickettsieae;Rickettsia;typhusgroup
+x874	Wolbachia endosymbiont of Drosophila melanogaster	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Wolbachieae;Wolbachia
+x875	Wolbachia pipientis	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Wolbachieae;Wolbachia
+x876	Wolbachia endosymbiont strain TRS of Brugia malayi	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae;Wolbachieae;Wolbachia
+x878	Candidatus Pelagibacter ubique HTCC1002	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR11cluster;CandidatusPelagibacter
+x879	Candidatus Pelagibacter ubique HTCC1062	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR11cluster;CandidatusPelagibacter
+x850	Erythrobacter sp. SD-21	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter
+x851	Erythrobacter sp. NAP1	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter
+x852	Erythrobacter litoralis HTCC2594	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae;Erythrobacter
+x853	Novosphingobium aromaticivorans DSM 12444	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Novosphingobium
+x848	Sphingomonas wittichii RW1	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas
+x849	Sphingomonas sp. SKA58	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingomonas
+x854	Sphingopyxis alaskensis RB2256	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingopyxis
+x847	Zymomonas mobilis subsp. mobilis ZM4	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Zymomonas
+x707	Bordetella pertussis Tohama I	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella
+x708	Bordetella bronchiseptica RB50	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella
+x709	Bordetella parapertussis 12822	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella
+x710	Bordetella avium 197N	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella
+x711	Bordetella petrii	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae;Bordetella
+x712	Burkholderia xenovorans LB400	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia
+x713	Burkholderia phytofirmans PsJN	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia
+x715	Burkholderia phymatum STM815	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia
+x716	Burkholderia mallei ATCC 23344	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia
+x720	Burkholderia mallei NCTC 10247	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia
+x722	Burkholderia mallei NCTC 10229	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia
+x723	Burkholderia mallei SAVP1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia
+x724	Burkholderia ambifaria AMMD	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x725	Burkholderia ambifaria MC40-6	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x726	Burkholderia cenocepacia MC0-3	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x727	Burkholderia cenocepacia HI2424	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x728	Burkholderia cenocepacia AU 1054	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x729	Burkholderia sp. 383	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x730	Burkholderia vietnamiensis G4	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x732	Burkholderia multivorans ATCC 17616	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiacepaciacomplex
+x714	Burkholderia graminis C4D1M	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;Burkholderiagraminis;
+x717	Burkholderia pseudomallei K96243	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;pseudomalleigroup
+x718	Burkholderia pseudomallei 1710b	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;pseudomalleigroup
+x719	Burkholderia pseudomallei 1106a	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;pseudomalleigroup
+x721	Burkholderia pseudomallei 668	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;pseudomalleigroup
+x731	Burkholderia thailandensis E264	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Burkholderia;pseudomalleigroup
+x738	Ralstonia metallidurans CH34	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus
+x739	Cupriavidus taiwanensis	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus
+x740	Ralstonia eutropha JMP134	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus
+x741	Ralstonia eutropha H16	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Cupriavidus
+x706	Limnobacter sp. MED105	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Limnobacter
+x733	Polynucleobacter necessarius STIR1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter
+x734	Polynucleobacter sp. QLW-P1DMWA-1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Polynucleobacter
+x736	Ralstonia pickettii 12J	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia
+x737	Ralstonia solanacearum GMI1000	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia
+x735	Ralstonia pickettii 12D	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae;Ralstonia;Ralstoniapickettii;
+x698	Acidovorax avenae subsp. citrulli AAC00-1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax
+x699	Acidovorax sp. JS42	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Acidovorax
+x700	Delftia acidovorans SPH-1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Delftia
+x701	Polaromonas sp. JS666	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Polaromonas
+x702	Polaromonas naphthalenivorans CJ2	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Polaromonas
+x703	Rhodoferax ferrireducens T118	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Rhodoferax
+x697	Verminephrobacter eiseniae EF01-2	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae;Verminephrobacter
+x704	Leptothrix cholodnii SP-6	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Leptothrix
+x705	Methylibium petroleiphilum PM1	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Methylibium
+x742	Herminiimonas arsenicoxydans	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Herminiimonas
+x743	Janthinobacterium sp. Marseille	Bacteria;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae;Janthinobacterium
+x754	Thiobacillus denitrificans ATCC 25259	Bacteria;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae;Thiobacillus
+x696	Methylobacillus flagellatus KT	Bacteria;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae;Methylobacillus
+x695	Methylophilales bacterium HTCC2181	Bacteria;Proteobacteria;Betaproteobacteria;Methylophilales;unclassifiedMethylophilales
+x753	Chromobacterium violaceum ATCC 12472	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Chromobacterium
+x747	Neisseria meningitidis Z2491	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria
+x748	Neisseria meningitidis FAM18	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria
+x749	Neisseria meningitidis MC58	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria
+x750	Neisseria meningitidis 053442	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria
+x751	Neisseria gonorrhoeae NCCP11945	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria
+x752	Neisseria gonorrhoeae FA 1090	Bacteria;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae;Neisseria
+x755	Nitrosomonas eutropha C91	Bacteria;Proteobacteria;Betaproteobacteria;Nitrosomonadales;Nitrosomonadaceae;Nitrosomonas
+x756	Nitrosomonas europaea ATCC 19718	Bacteria;Proteobacteria;Betaproteobacteria;Nitrosomonadales;Nitrosomonadaceae;Nitrosomonas
+x757	Nitrosospira multiformis ATCC 25196	Bacteria;Proteobacteria;Betaproteobacteria;Nitrosomonadales;Nitrosomonadaceae;Nitrosospira
+x745	Azoarcus sp. EbN1	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus
+x746	Azoarcus sp. BH72	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Azoarcus
+x744	Dechloromonas aromatica RCB	Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae;Dechloromonas
+x1	Bdellovibrio bacteriovorus HD100	Bacteria;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bdellovibrionaceae;Bdellovibrio
+x20	Desulfococcus oleovorans Hxd3	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfobacterales;Desulfobacteraceae;Desulfococcus
+x18	Desulfotalea psychrophila LSv54	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfobacterales;Desulfobulbaceae;Desulfotalea
+x27	Desulfohalobium retbaense DSM 5692	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfohalobiaceae;Desulfohalobium;Desulfohalobiumretbaense;
+x22	Desulfomicrobium baculatum DSM 4028	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfomicrobiaceae;Desulfomicrobium;Desulfomicrobiumbaculatum;
+x24	Desulfovibrio vulgaris subsp. vulgaris DP4	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio
+x25	Desulfovibrio vulgaris subsp. vulgaris str. Hildenborough	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio
+x26	Desulfovibrio desulfuricans G20	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Desulfovibrio
+x23	Lawsonia intracellularis PHE/MN1-00	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfovibrionales;Desulfovibrionaceae;Lawsonia
+x10	Geobacter lovleyi SZ	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter
+x12	Geobacter metallireducens GS-15	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter
+x13	Geobacter sulfurreducens PCA	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter
+x15	Geobacter bemidjiensis Bem	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter
+x16	Geobacter sp. FRC-32	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter
+x17	Geobacter uraniumreducens Rf4	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter
+x14	Geobacter sp. M21	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter;
+x11	Pelobacter propionicus DSM 2379	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Pelobacteraceae;Pelobacter
+x9	Pelobacter carbinolicus DSM 2380	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Pelobacteraceae;Pelobacter
+x4	Anaeromyxobacter sp. Fw109-5	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Cystobacterineae;Myxococcaceae;Anaeromyxobacter
+x5	Anaeromyxobacter dehalogenans 2CP-C	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Cystobacterineae;Myxococcaceae;Anaeromyxobacter
+x6	Anaeromyxobacter sp. K	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Cystobacterineae;Myxococcaceae;Anaeromyxobacter
+x7	Myxococcus xanthus DK 1622	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Cystobacterineae;Myxococcaceae;Myxococcus
+x3	Haliangium ochraceum DSM 14365	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Nannocystineae;Haliangiaceae;Haliangium;Haliangiumochraceum;
+x2	Plesiocystis pacifica SIR-1	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Nannocystineae;Nannocystaceae;Plesiocystis
+x8	Sorangium cellulosum So ce 56	Bacteria;Proteobacteria;Deltaproteobacteria;Myxococcales;Sorangineae;Polyangiaceae;Sorangium
+x21	Syntrophus aciditrophicus SB	Bacteria;Proteobacteria;Deltaproteobacteria;Syntrophobacterales;Syntrophaceae;Syntrophus
+x19	Syntrophobacter fumaroxidans MPOB	Bacteria;Proteobacteria;Deltaproteobacteria;Syntrophobacterales;Syntrophobacteraceae;Syntrophobacter
+x33	Arcobacter butzleri RM4018	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Arcobacter
+x36	Campylobacter curvus 525.92	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x37	Campylobacter concisus 13826	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x38	Campylobacter fetus subsp. fetus 82-40	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x39	Campylobacter hominis ATCC BAA-381	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x40	Campylobacter jejuni subsp. jejuni 81-176	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x41	Campylobacter jejuni subsp. doylei 269.97	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x42	Campylobacter jejuni subsp. jejuni 81116	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x43	Campylobacter jejuni RM1221	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x44	Campylobacter jejuni subsp. jejuni NCTC 11168	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Campylobacter
+x45	Sulfurospirillum deleyianum DSM 6946	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae;Sulfurospirillum;Sulfurospirillumdeleyianum;
+x46	Helicobacter hepaticus ATCC 51449	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter
+x47	Helicobacter pylori 26695	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter
+x48	Helicobacter pylori Shi470	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter
+x49	Helicobacter pylori HPAG1	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter
+x50	Helicobacter pylori J99	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter
+x51	Helicobacter acinonychis str. Sheeba	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Helicobacter
+x34	Sulfurimonas denitrificans DSM 1251	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Sulfurimonas
+x52	Wolinella succinogenes DSM 1740	Bacteria;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Helicobacteraceae;Wolinella
+x54	Caminibacter mediatlanticus TB-2	Bacteria;Proteobacteria;Epsilonproteobacteria;Nautiliales;Nautiliaceae;Caminibacter
+x53	Nitratiruptor sp. SB155-2	Bacteria;Proteobacteria;Epsilonproteobacteria;Nitratiruptor
+x35	Sulfurovum sp. NBC37-1	Bacteria;Proteobacteria;Epsilonproteobacteria;Sulfurovum
+x55	Thermophilic autotrophic epsilon proteobacteria AM-H	Bacteria;Proteobacteria;Epsilonproteobacteria;ThermophilicautotrophicepsilonproteobacteriaAM-H
+x626	gamma proteobacterium HTCC2207	Bacteria;Proteobacteria;Gammaproteobacteria
+x630	marine gamma proteobacterium HTCC2080	Bacteria;Proteobacteria;Gammaproteobacteria
+x631	marine gamma proteobacterium HTCC2143	Bacteria;Proteobacteria;Gammaproteobacteria
+x758	Acidithiobacillus ferrooxidans ATCC 53993	Bacteria;Proteobacteria;Gammaproteobacteria;Acidithiobacillales;Acidithiobacillaceae;Acidithiobacillus
+x582	Aeromonas hydrophila subsp. hydrophila ATCC 7966	Bacteria;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae;Aeromonas
+x603	Alteromonadales bacterium TW-7	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales
+x611	Alteromonas macleodii Deep ecotype	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas
+x613	Alteromonas macleodii Deep ecotype	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Alteromonas
+x616	Marinobacter algicola DG893	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter
+x617	Marinobacter sp. ELB17	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter
+x618	Marinobacter aquaeolei VT8	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Marinobacter
+x627	Saccharophagus degradans 2-40	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Alteromonadaceae;Saccharophagus
+x606	Colwellia psychrerythraea 34H	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Colwelliaceae;Colwellia
+x609	Idiomarina baltica OS145	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina
+x610	Idiomarina loihiensis L2TR	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Idiomarinaceae;Idiomarina
+x602	Moritella sp. PE36	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Moritellaceae;Moritella
+x604	Pseudoalteromonas haloplanktis TAC125	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas
+x605	Pseudoalteromonas tunicata D2	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas
+x612	Pseudoalteromonas atlantica T6c	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Pseudoalteromonadaceae;Pseudoalteromonas
+x607	Psychromonas sp. CNPT3	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Psychromonadaceae;Psychromonas
+x608	Psychromonas ingrahamii 37	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Psychromonadaceae;Psychromonas
+x583	Shewanella sp. ANA-3	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x584	Shewanella sp. MR-4	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x586	Shewanella sp. W3-18-1	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x587	Shewanella putrefaciens CN-32	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x588	Shewanella baltica OS155	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x589	Shewanella baltica OS185	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x590	Shewanella baltica OS195	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x591	Shewanella baltica OS223	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x592	Shewanella oneidensis MR-1	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x593	Shewanella sp. MR-7	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x594	Shewanella denitrificans OS217	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x595	Shewanella frigidimarina NCIMB 400	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x596	Shewanella sediminis HAW-EB3	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x597	Shewanella woodyi ATCC 51908	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x598	Shewanella halifaxensis HAW-EB4	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x599	Shewanella pealeana ATCC 700345	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x600	Shewanella loihica PV-4	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x601	Shewanella amazonensis SB2B	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella
+x585	Shewanella putrefaciens 200	Bacteria;Proteobacteria;Gammaproteobacteria;Alteromonadales;Shewanellaceae;Shewanella;Shewanellaputrefaciens;
+x549	Baumannia cicadellinicola str. Hc (Homalodisca coagulata)	Bacteria;Proteobacteria;Gammaproteobacteria;CandidatusBaumannia
+x28	Candidatus Carsonella ruddii PV	Bacteria;Proteobacteria;Gammaproteobacteria;CandidatusCarsonella
+x686	Dichelobacter nodosus VCS1703A	Bacteria;Proteobacteria;Gammaproteobacteria;Cardiobacteriales;Cardiobacteriaceae;Dichelobacter
+x694	Nitrosococcus oceani ATCC 19707	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae;Nitrosococcus
+x692	Alkalilimnicola ehrlichei MLHE-1	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Alkalilimnicola
+x691	Halorhodospira halophila SL1	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Halorhodospira
+x693	Nitrococcus mobilis Nb-231	Bacteria;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae;Nitrococcus
+x629	Congregibacter litoralis KT71	Bacteria;Proteobacteria;Gammaproteobacteria;Congregibacter
+x547	Candidatus Blochmannia floridanus	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;antendosymbionts;CandidatusBlochmannia
+x548	Candidatus Blochmannia pennsylvanicus str. BPEN	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;antendosymbionts;CandidatusBlochmannia
+x543	Buchnera aphidicola str. Cc (Cinara cedri)	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Buchnera
+x544	Buchnera aphidicola str. APS (Acyrthosiphon pisum)	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Buchnera
+x545	Buchnera aphidicola str. Sg (Schizaphis graminum)	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Buchnera
+x546	Buchnera aphidicola str. Bp (Baizongia pistaciae)	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Buchnera
+x509	Citrobacter koseri ATCC BAA-895	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Citrobacter
+x524	Enterobacter sakazakii ATCC BAA-894	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Cronobacter
+x525	Enterobacter sp. 638	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Enterobacter
+x526	Erwinia tasmaniensis	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Erwinia
+x489	Escherichia coli O157:H7 EDL933	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x490	Escherichia coli W3110	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x492	Escherichia coli ATCC 8739	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x493	Escherichia coli CFT073	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x494	Escherichia coli O157:H7 str. Sakai	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x497	Escherichia coli K12	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x499	Escherichia coli HS	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x500	Escherichia coli SECEC SMS-3-5	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x501	Escherichia coli UTI89	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x503	Escherichia coli E24377A	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x505	Escherichia coli DH10B	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x506	Escherichia coli 536	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x507	Escherichia coli APEC O1	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia
+x510	Klebsiella pneumoniae subsp. pneumoniae MGH 78578	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Klebsiella
+x527	Erwinia carotovora subsp. atroseptica SCRI1043	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Pectobacterium
+x550	Photorhabdus luminescens subsp. laumondii TTO1	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Photorhabdus
+x551	Proteus mirabilis HI4320	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Proteus
+x512	Salmonella typhimurium LT2	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x514	Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x515	Salmonella enterica subsp. enterica serovar Heidelberg str. SL476	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x516	Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x519	Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x520	Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x522	Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x523	"Salmonella enterica subsp. arizonae serovar 62:z4,z23:--"	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella
+x511	Salmonella enterica subsp. enterica serovar Agona str. SL483	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonellaentericasubsp.entericaserovarAgona
+x521	Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonellaentericasubsp.entericaserovarCholeraesuis
+x513	Salmonella enterica subsp. enterica serovar Newport str. SL254	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonellaentericasubsp.entericaserovarNewport
+x517	Salmonella enterica subsp. enterica serovar Typhi str. CT18	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonellaentericasubsp.entericaserovarTyphi
+x518	Salmonella enterica subsp. enterica serovar Typhi Ty2	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Salmonella;Salmonellaentericasubsp.entericaserovarTyphi
+x540	Serratia proteamaculans 568	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Serratia
+x491	Shigella flexneri 2a str. 301	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella
+x495	Shigella flexneri 2a str. 2457T	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella
+x496	Shigella boydii Sb227	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella
+x498	Shigella dysenteriae Sd197	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella
+x502	Shigella boydii CDC 3083-94	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella
+x504	Shigella flexneri 5 str. 8401	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella
+x508	Shigella sonnei Ss046	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Shigella
+x541	Sodalis glossinidius str. morsitans	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Sodalis
+x542	Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Wigglesworthia
+x528	Yersinia pestis biovar Microtus str. 91001	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x529	Yersinia pestis KIM	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x530	Yersinia pestis CO92	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x531	Yersinia pestis Antiqua	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x532	Yersinia pseudotuberculosis PB1/+	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x533	Yersinia pestis Pestoides F	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x534	Yersinia pseudotuberculosis YPIII	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x535	Yersinia pestis Nepal516	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x536	Yersinia pseudotuberculosis IP 31758	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x537	Yersinia pseudotuberculosis IP 32953	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x538	Yersinia enterocolitica subsp. enterocolitica 8081	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x539	Yersinia pestis Angola	Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Yersinia
+x688	Coxiella burnetii RSA 493	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Coxiella
+x689	Coxiella burnetii RSA 331	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Coxiella
+x690	Coxiella burnetii Dugway 5J108-111	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Coxiella
+x665	Legionella pneumophila str. Corby	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella
+x666	Legionella pneumophila subsp. pneumophila str. Philadelphia 1	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella
+x667	Legionella pneumophila str. Lens	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella
+x668	Legionella pneumophila str. Paris	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Legionellaceae;Legionella
+x687	Methylococcus capsulatus str. Bath	Bacteria;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae;Methylococcus
+x647	Alcanivorax borkumensis SK2	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoracaceae;Alcanivorax
+x619	Hahella chejuensis KCTC 2396	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Hahellaceae;Hahella
+x621	Chromohalobacter salexigens DSM 3043	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Chromohalobacter
+x622	Marinomonas sp. MWYL1	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Marinomonas
+x623	Marinomonas sp. MED121	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Marinomonas
+x624	Oceanobacter sp. RED65	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanobacter
+x620	Oceanospirillum sp. MED92	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillum
+x552	Actinobacillus succinogenes 130Z	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus
+x561	Actinobacillus pleuropneumoniae serovar 7 str. AP76	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus
+x562	Actinobacillus pleuropneumoniae L20	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus
+x563	Actinobacillus pleuropneumoniae serovar 3 str. JL03	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Actinobacillus
+x556	Haemophilus influenzae 86-028NP	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus
+x557	Haemophilus influenzae PittGG	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus
+x558	Haemophilus influenzae Rd KW20	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus
+x559	Haemophilus influenzae PittEE	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus
+x564	Haemophilus ducreyi 35000HP	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Haemophilus
+x554	Haemophilus somnus 129PT	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Histophilus
+x555	Haemophilus somnus 2336	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Histophilus
+x553	Mannheimia succiniciproducens MBEL55E	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Mannheimia
+x560	Pasteurella multocida subsp. multocida str. Pm70	Bacteria;Proteobacteria;Gammaproteobacteria;Pasteurellales;Pasteurellaceae;Pasteurella
+x660	Acinetobacter baumannii SDF	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter
+x661	Acinetobacter baumannii ATCC 17978	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter
+x662	Acinetobacter baumannii AYE	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter
+x663	Acinetobacter baumannii ACICU	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter
+x664	Acinetobacter sp. ADP1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Acinetobacter
+x657	Psychrobacter arcticus 273-4	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter
+x658	Psychrobacter cryohalolentis K5	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter
+x659	Psychrobacter sp. PRwf-1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae;Psychrobacter
+x628	Cellvibrio japonicus Ueda107	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Cellvibrio
+x632	Pseudomonas putida F1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x633	Pseudomonas putida KT2440	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x634	Pseudomonas putida GB-1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x635	Pseudomonas entomophila L48	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x636	Pseudomonas putida W619	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x637	Pseudomonas fluorescens Pf-5	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x638	Pseudomonas fluorescens PfO-1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x639	Pseudomonas syringae pv. tomato str. DC3000	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x640	Pseudomonas syringae pv. phaseolicola 1448A	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x641	Pseudomonas syringae pv. syringae B728a	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x642	Pseudomonas mendocina ymp	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x643	Pseudomonas stutzeri A1501	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x644	Pseudomonas aeruginosa PAO1	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x645	Pseudomonas aeruginosa UCBPP-PA14	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x646	Pseudomonas aeruginosa PA7	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas
+x625	Reinekea sp. MED297	Bacteria;Proteobacteria;Gammaproteobacteria;Reinekea
+x669	Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)	Bacteria;Proteobacteria;Gammaproteobacteria;sulfur-oxidizingsymbionts
+x670	Candidatus Vesicomyosocius okutanii HA	Bacteria;Proteobacteria;Gammaproteobacteria;sulfur-oxidizingsymbionts
+x648	Francisella tularensis subsp. novicida U112	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x649	Francisella tularensis subsp. tularensis WY96-3418	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x650	Francisella tularensis subsp. holarctica OSU18	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x651	Francisella tularensis subsp. holarctica FTA	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x652	Francisella tularensis subsp. holarctica	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x653	Francisella tularensis subsp. tularensis FSC198	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x654	Francisella tularensis subsp. tularensis SCHU S4	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x655	Francisella tularensis subsp. mediasiatica FSC147	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x656	Francisella philomiragia subsp. philomiragia ATCC 25017	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Francisellaceae;Francisella
+x671	Thiomicrospira crunogena XCL-2	Bacteria;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae;Thiomicrospira
+x615	Kangiella koreensis DSM 16069	Bacteria;Proteobacteria;Gammaproteobacteria;unclassifiedGammaproteobacteria;Kangiella;Kangiellakoreensis;
+x567	Vibrionales bacterium SWAT-3	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;unclassifiedVibrionales
+x577	Vibrio fischeri MJ11	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Aliivibrio
+x578	Photobacterium sp. SKA34	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium
+x580	Photobacterium profundum 3TCK	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium
+x581	Photobacterium profundum SS9	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Photobacterium
+x565	Vibrio sp. MED222	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x566	Vibrio splendidus 12B01	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x568	Vibrio parahaemolyticus RIMD 2210633	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x569	Vibrio alginolyticus 12G01	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x570	Vibrio harveyi ATCC BAA-1116	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x571	Vibrio cholerae O395	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x572	Vibrio cholerae O1 biovar eltor str. N16961	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x573	Vibrio vulnificus YJ016	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x574	Vibrio vulnificus CMCP6	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x575	Vibrio shilonii AK1	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x576	Vibrio fischeri ES114	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x579	Vibrio angustum S14	Bacteria;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae;Vibrio
+x680	Stenotrophomonas maltophilia R551-3	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas
+x681	Stenotrophomonas maltophilia K279a	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas
+x672	Xanthomonas axonopodis pv. citri str. 306	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x673	Xanthomonas oryzae pv. oryzae KACC10331	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x674	Xanthomonas oryzae pv. oryzae MAFF 311018	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x675	Xanthomonas oryzae pv. oryzae PXO99A	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x676	Xanthomonas campestris pv. campestris str. 8004	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x677	Xanthomonas campestris pv. campestris str. ATCC 33913	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x678	Xanthomonas campestris pv. campestris	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x679	Xanthomonas campestris pv. vesicatoria str. 85-10	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xanthomonas
+x682	Xylella fastidiosa Temecula1	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xylella
+x683	Xylella fastidiosa M23	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xylella
+x684	Xylella fastidiosa M12	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xylella
+x685	Xylella fastidiosa 9a5c	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Xylella
+x880	Magnetococcus sp. MC-1	Bacteria;Proteobacteria;Magnetococcus
+x759	Mariprofundus ferrooxydans PV-1	Bacteria;Proteobacteria;Mariprofundus
+x66	Brachyspira murdochii DSM 12563	Bacteria;Spirochaetes;Spirochaetales;Brachyspiraceae;Brachyspira;Brachyspiramurdochii;
+x67	Leptospira interrogans serovar Lai str. 56601	Bacteria;Spirochaetes;Spirochaetales;Leptospiraceae;Leptospira
+x68	Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130	Bacteria;Spirochaetes;Spirochaetales;Leptospiraceae;Leptospira
+x69	Leptospira borgpetersenii serovar Hardjo-bovis L550	Bacteria;Spirochaetes;Spirochaetales;Leptospiraceae;Leptospira
+x70	Leptospira borgpetersenii serovar Hardjo-bovis JB197	Bacteria;Spirochaetes;Spirochaetales;Leptospiraceae;Leptospira
+x71	Leptospira biflexa serovar Patoc strain Patoc 1 (Paris)	Bacteria;Spirochaetes;Spirochaetales;Leptospiraceae;Leptospira
+x72	Leptospira biflexa serovar Patoc strain Patoc 1 (Ames)	Bacteria;Spirochaetes;Spirochaetales;Leptospiraceae;Leptospira
+x61	Borrelia turicatae 91E135	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Borrelia
+x62	Borrelia hermsii DAH	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Borrelia
+x58	Borrelia afzelii PKo	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Borrelia;Borreliaburgdorferigroup
+x59	Borrelia garinii PBi	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Borrelia;Borreliaburgdorferigroup
+x60	Borrelia burgdorferi B31	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Borrelia;Borreliaburgdorferigroup
+x63	Treponema denticola ATCC 35405	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Treponema
+x64	Treponema pallidum subsp. pallidum str. Nichols	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Treponema
+x65	Treponema pallidum subsp. pallidum SS14	Bacteria;Spirochaetes;Spirochaetales;Spirochaetaceae;Treponema
+x146	Synergistes jonesii	Bacteria;Synergistetes;Synergistes
+x148	Dethiosulfovibrio peptidovorans DSM 11002	Bacteria;Synergistetes;[Clostridiales]FamilyXV.IncertaeSedis;Dethiosulfovibrio;Dethiosulfovibriopeptidovorans;
+x147	Thermanaerovibrio acidaminovorans DSM 6589	Bacteria;Synergistetes;[Clostridiales]FamilyXV.IncertaeSedis;Thermanaerovibrio;Thermanaerovibrioacidaminovorans;
+x467	Candidatus Phytoplasma mali	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;CandidatusPhytoplasma;16SrX(Appleproliferationgroup)
+x468	Candidatus Phytoplasma australiense	Bacteria;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae;CandidatusPhytoplasma;16SrXII(Stolburgroup)
+x478	Mycoplasma arthritidis 158L3-1	Bacteria;Tenericutes;Mollicutes;Mycoplasmataceae;Mycoplasma
+x153	Fervidobacterium nodosum Rt17-B1	Bacteria;Thermotogae;Thermotogales;Thermotogaceae;Fervidobacterium
+x155	Petrotoga mobilis SJ95	Bacteria;Thermotogae;Thermotogales;Thermotogaceae;Petrotoga
+x154	Thermosipho melanesiensis BI429	Bacteria;Thermotogae;Thermotogales;Thermotogaceae;Thermosipho
+x149	Thermotoga petrophila RKU-1	Bacteria;Thermotogae;Thermotogales;Thermotogaceae;Thermotoga
+x150	Thermotoga sp. RQ2	Bacteria;Thermotogae;Thermotogales;Thermotogaceae;Thermotoga
+x151	Thermotoga maritima MSB8	Bacteria;Thermotogae;Thermotogales;Thermotogaceae;Thermotoga
+x152	Thermotoga lettingae TMO	Bacteria;Thermotogae;Thermotogales;Thermotogaceae;Thermotoga

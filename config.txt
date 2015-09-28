@@ -1,0 +1,46 @@
+# Interpret Newick length values as bootstrap values with unit lengths
+len_as_boot	0
+
+# Newick branch order: 
+#   1=As listed, 
+#   2=By depth, 
+#   3=By width (number of taxa)
+branch_order	2
+branch_reverse	0
+
+# Tree drawing parameters
+view_width	30000
+view_height	30000
+radial_space	10
+tree_rotation	0
+align_text	1
+tree_color	#000000
+font_color	#000000
+label_color	#000000
+font_family	Verdana
+legend_length	0
+legend_x_offset	0.1
+legend_y_offset	0.1
+tree_zoom	1
+font_zoom	2
+title_font_zoom	4
+label_font_zoom	1
+lab_offset_mult	1
+x_offset	0
+y_offset	0
+
+# Abundance annotations
+abund_max_size	10
+lega_txt_offset	0.025
+
+# Chart parameters
+tvchart_same	0
+tvchart_scale	1
+tvchart_grid	0
+tvchart_color1	#0000FF
+tvchart_color2	#00FF00
+tvchart_pos2	1
+
+# Prevents ultra-small tvchart lines, 
+# which are often misinterpreted when converting to pdf
+tvchart_min_len	0.005
