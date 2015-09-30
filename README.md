@@ -9,6 +9,7 @@ A simple, extensible, Perl script for producing figures of large phylogenetic tr
 * Circular and radial trees are more compact than linear representations
 
 ![slacTree multi-dataset figure](https://cloud.githubusercontent.com/assets/14023091/10204444/9f0c48c0-6770-11e5-9226-cf14c900981d.png multi-dataset abundance figure)
+<a img="https://cloud.githubusercontent.com/assets/14023091/10204444/9f0c48c0-6770-11e5-9226-cf14c900981d.png">multi-dataset abundance figure</a>
 
 ![magnified](https://cloud.githubusercontent.com/assets/14023091/10204450/a66acdc6-6770-11e5-85bf-2db75fdcc300.png magnified region)
 
