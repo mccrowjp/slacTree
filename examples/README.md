@@ -9,5 +9,5 @@
 The first example converts a newick tree and taxonomic information into an annotatable slacTree file and SVG file. The later examples add annotations and discuss different ways of displaying overlayed abundance values and other types of data.
 
 SVG files can be manipulated in a number of drawing/publishing programs, and can be viewed in most browsers. See:
-* InkScape (https://inkscape.org/en/)
+* InkScape (http://www.inkscape.org)
 * Adobe Illustrator (http://www.adobe.com/products/illustrator.html)
