@@ -1,7 +1,7 @@
 ## Example 2 ##
 ### Highlighting Taxonomic Groups ###
 
-See example 1 for initial creation of slacTree file from newick tree and taxonomic information.
+See [example 1](../ex1_simple) for initial creation of slacTree file from newick tree and taxonomic information.
 
 | File | Description |
 |------|-------------|
@@ -52,7 +52,7 @@ legh    Gammaproteobacteria     #000000 #DDDDFF
 legh    Deltaproteobacteria     #000000 #9999FF
 legh    Epsilonproteobacteria   #000000 #DDDDFF
 ```
-The legh adds rows below the leg annotation for each taxonomic group color.  If no branch length legend is needed, you may still change the x,y location of the legend by specifying the x,y relative values and leaving the first value of the leg annotation as 0.
+The legh annotation adds rows below the leg annotation for each taxonomic group color.  If no branch length legend is needed, you may still change the x,y location of the legend by specifying the x,y relative values and leaving the first value of the leg annotation as 0.
 
 
 Create SVG drawing from slacTree file:

@@ -1,32 +1,32 @@
 ## Example 5 ##
 ### Multiple Dataset Abundances ###
 
-See example 1 for initial creation of slacTree file from newick tree and taxonomic information.
+See [example 1](../ex1_simple) for initial creation of slacTree file from newick tree and taxonomic information.
 
 | File | Description |
 |------|-------------|
 | ex5_combined.st     | slacTree file includes info about the tree, taxa, and annotations |
 | ex5_combined.svg    | Scalable Vector Graphics (SVG) drawing of tree |
 | ex5_combined.pdf    | PDF version of SVG drawing |
-| ----------------| ------------|
+|  |  |
 | ex5_sample1.st  | slacTree file with abundance values for sample1
 | ex5_sample1.svg | SVG drawing of abundance density; references ex5_sample1.svg.density.jpg |
 | ex5_sample1.svg.density.abund | Abundance values at x,y coordinates used to create density graphic
 | ex5_sample1.svg.density.jpg | JPG picture of abundance density used as the background for the SVG |
 | ex5_sample1.pdf | PDF version of SVG density figure |
-| ----------------| ------------|
+|  |  |
 | ex5_sample2.st  | slacTree file with abundance values for sample2
 | ex5_sample2.svg | SVG drawing of abundance density; references ex5_sample2.svg.density.jpg |
 | ex5_sample2.svg.density.abund | Abundance values at x,y coordinates used to create density graphic
 | ex5_sample2.svg.density.jpg | JPG picture of abundance density used as the background for the SVG |
 | ex5_sample2.pdf | PDF version of SVG density figure |
-| ----------------| ------------|
+|  |  |
 | ex5_sample3.st  | slacTree file with abundance values for sample3
 | ex5_sample3.svg | SVG drawing of abundance density; references ex5_sample3.svg.density.jpg |
 | ex5_sample3.svg.density.abund | Abundance values at x,y coordinates used to create density graphic
 | ex5_sample3.svg.density.jpg | JPG picture of abundance density used as the background for the SVG |
 | ex5_sample3.pdf | PDF version of SVG density figure |
-| ----------------| ------------|
+|  |  |
 | ex5_density_figure.jpg | Combined small multiples figure of density plots |
 
 Procedure
@@ -35,6 +35,7 @@ Procedure
 Annotations are in the slacTree files ex5_combined.st, ex5_sample1.st, ex5_sample2.st, ex5_sample3.st
 
 Abundance values can be displayed in two ways:
+
 1. Colored circles on nodes.  Allows for multiple datasets to be combined into a single figure with each displayed as a different color.
 2. Kernal density plot.  Shows a better view of the combined taxonomic signal when there are many small or overlapping circles in a similar region of the tree.
 
@@ -141,4 +142,5 @@ Small-multiples
 A summary figure is given as an example `ex5_density_figure.jpg` from the three density plots.
 
 
-SVG files can be viewed in most browsers. The PDF and magnified JPG files were created by printing to a PDF from Firefox browser, and cropping the image in Preview in Mac OSX.
+SVG files can be viewed in most browsers. The PDF files were created by printing to a PDF from Firefox browser, and the small-multiples JPG figure was created in Powerpoint by inserting each of the three density PDFs.
+

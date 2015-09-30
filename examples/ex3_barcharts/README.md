@@ -1,7 +1,7 @@
 ## Example 3 ##
 ### Bar Charts ###
 
-See example 1 for initial creation of slacTree file from newick tree and taxonomic information.
+See [example 1](../ex1_simple) for initial creation of slacTree file from newick tree and taxonomic information.
 
 | File | Description |
 |------|-------------|
@@ -21,7 +21,7 @@ Reduce the relative size of the tree to accomodate two extra levels of data:
 plot    0.1     0       0.7     #000000
 ```
 
-The 0.7 is the tree zoom parameter and indicates that we want to shrink the tree to 70% of the normal size so the two rings of bar charts will fit properly.
+The `0.7` is the tree zoom parameter and indicates that we want to shrink the tree to 70% of the normal size so the two rings of bar charts will fit properly.
 
 Show a subset of the tree:
 
@@ -29,7 +29,7 @@ Show a subset of the tree:
 rootn   59
 ```
 
-The rootn annotation displays only the subset of the tree below node 59.  Use this annotation to quickly subset the tree without reworking the entire slacTree file.
+The rootn annotation displays only the subset of the tree below node ID 59.  Use this annotation to quickly subset the tree without reworking the entire slacTree file.
 
 Add taxonomic highlighting annotations:
 
@@ -48,7 +48,7 @@ htax    Bacteria;Cyanobacteria  #DDFFDD
 Create SVG drawing from slacTree file:
 
 ```bash
-slacTree.pl tree -i ex2.st -o ex2.svg
+slacTree.pl tree -i ex3.st -o ex3.svg
 ```
 
 SVG files can be viewed in most browsers. The PDF and magnified JPG files were created by printing to a PDF from Firefox browser, and cropping the image in Preview in Mac OSX.

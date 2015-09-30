@@ -1,7 +1,7 @@
 ## Example 4 ##
 ### Abundances ###
 
-See example 1 for initial creation of slacTree file from newick tree and taxonomic information.
+See [example 1](../ex1_simple) for initial creation of slacTree file from newick tree and taxonomic information.
 
 | File | Description |
 |------|-------------|
@@ -9,7 +9,7 @@ See example 1 for initial creation of slacTree file from newick tree and taxonom
 | ex4.svg    | Scalable Vector Graphics (SVG) drawing of tree |
 | ex4.pdf    | PDF version of SVG drawing |
 | ex4.magnify.jpg | JPG picture of a small, zoomed in, section of the tree |
-| ----------------| ------------|
+|  |  |
 | ex4.density.svg | SVG drawing of abundance density; references ex4.density.svg.density.jpg |
 | ex4.density.svg.density.abund | Abundance values at x,y coordinates used to create density graphic
 | ex4.density.svg.density.jpg | JPG picture of abundance density used as the background for the SVG |
@@ -21,6 +21,7 @@ Procedure
 Annotations are in the slacTree file ex4.st.
 
 Abundance values can be displayed in two ways:
+
 1. Colored circles on nodes.  Allows for multiple datasets to be combined into a single figure with each displayed as a different color.
 2. Kernal density plot.  Shows a better view of the combined taxonomic signal when there are many small or overlapping circles in a similar region of the tree.
 
@@ -73,7 +74,7 @@ Circles
 Create SVG drawing from slacTree file:
 
 ```bash
-slacTree.pl tree -i ex2.st -o ex2.svg
+slacTree.pl tree -i ex4.st -o ex4.svg
 ```
 
 Density
@@ -82,7 +83,7 @@ Density
 Create SVG drawing from slacTree file:
 
 ```bash
-slacTree.pl density -i ex2.st -o ex2.svg
+slacTree.pl density -i ex4.st -o ex4.svg
 ```
 
 Command line option -d may also be used to specify the base name of the abundance values file and the background JPG density image that are created as part of the density display.  If this option is not specified, as in the example above, then the output filename or input filename are used, if given.  If using **stdin** and **stdout** then the -d option is required.

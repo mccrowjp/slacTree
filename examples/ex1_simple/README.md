@@ -19,7 +19,9 @@ Convert tree and taxonomy information into annotatable slacTree format:
 $ slacTree.pl newick2st -i ex1.newick -t ex1.tax -o ex1.st
 ```
 
-Default drawing parameters and comments indicating how to add annotations are added initially to the slacTree file ex1.st.  In this example we do not add any annotations, and go straight to drawing the tree.
+The -t parameter specifying taxonomy information is optional, but provides useful display information including full taxon names, which might have been impossible to include in the newick file itself, and/or taxonomic strings that may be used to highlight clades in the tree.  
+
+Default drawing parameters and comments indicating how to add annotations are added initially to the slacTree file ex1.st.  In this example we do not add any further annotations, and go straight to drawing the tree.
 
 Create SVG drawing from slacTree file:
 
