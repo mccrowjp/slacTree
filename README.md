@@ -23,6 +23,8 @@ Screenshots
 
 ![ex5_density](https://cloud.githubusercontent.com/assets/14023091/10204448/a3b4b024-6770-11e5-920a-958dd07c6130.png)
 
+Usage
+-----
 
 | File | Description |
 |------|-------------|
@@ -33,9 +35,6 @@ Screenshots
 | make_density_jpg.r | Run by slacTree.pl to create density background JPGs |
 | convert_old_treeinfo.pl | Converts older versions of slacTree or treeinfo files |
 | [examples/](./examples/) | Tutorial examples |
-
-Usage
------
 
 ```
 Usage: slacTree.pl [command] (options)
