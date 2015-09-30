@@ -8,12 +8,9 @@ A simple, extensible, Perl script for producing figures of large phylogenetic tr
 * SVG is used because it is a scalable format allowing for very small representations of entire trees or highly magnified regions with unlimited resolution
 * Circular and radial trees are more compact than linear representations
 
-![slacTree multi-dataset figure](docs/screenshot_combined.png multi-dataset abundance figure)
-
-![magnified](docs/screenshot_magnify.png magnified region)
-
-![density plots](docs/screenshot_density.png density plots)
-
+![ex5_combined](https://cloud.githubusercontent.com/assets/14023091/10204444/9f0c48c0-6770-11e5-9226-cf14c900981d.png)
+![ex5_density](https://cloud.githubusercontent.com/assets/14023091/10204448/a3b4b024-6770-11e5-920a-958dd07c6130.png)
+![ex4 magnify](https://cloud.githubusercontent.com/assets/14023091/10204450/a66acdc6-6770-11e5-85bf-2db75fdcc300.png)
 
 | File | Description |
 |------|-------------|
