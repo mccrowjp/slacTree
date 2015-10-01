@@ -8,8 +8,10 @@ A simple, extensible, Perl script for producing figures of large phylogenetic tr
 * SVG is used because it is a scalable format allowing for very small representations of entire trees or highly magnified regions with unlimited resolution
 * Circular and radial trees are more compact than linear representations
 
-Screenshots
+Examples
 -----------
+
+See [examples/](./examples) for a tutorial
 
 *Abundance values from 3 datasets*
 
@@ -48,7 +50,7 @@ zlim          calculate scaling factor (for multiple plots)
 
 options:
 -d            output density/abundance base file
--f            force overwrite of ouput file (default: no overwrite)
+-f            force overwrite of output file (default: no overwrite)
 -h            show help
 -i file       input file (use '-' for STDIN)
 -o file       output file (default: STDOUT)

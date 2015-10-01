@@ -2019,7 +2019,7 @@ Usage: slacTree.pl [command] (options)
 
   options:
     -d            output density/abundance base file
-    -f            force overwrite of ouput file (default: no overwrite)
+    -f            force overwrite of output file (default: no overwrite)
     -h            show help
     -i file       input file (use '-' for STDIN)
     -o file       output file (default: STDOUT)
