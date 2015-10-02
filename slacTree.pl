@@ -10,6 +10,7 @@
 use strict;
 use Math::Trig;
 use Getopt::Long;
+use JSON::PP;
 
 ### GLOBAL ###
 
@@ -419,8 +420,9 @@ sub readNewick_parseerror {
     return 0;
 }
 
-sub read_newick {
-    my $treestr;
+sub parse_newick {
+    my $treestr = shift;
+    
     my @Elist;
     my @Ilist;
     my $maxid=0;
@@ -443,13 +445,6 @@ sub read_newick {
     my $SCparen = 7;
     my $SPnum = 8;
     my $Send = 9;
-    
-    # Read
-    $treestr = "";
-    while(<IN>) {
-        chomp;
-        $treestr .= $_;
-    }
     
     if(length($taxfile) > 0) {
         open(TAX, $taxfile) or die "Unable to open file $taxfile\n";
@@ -727,6 +722,17 @@ sub read_newick {
     calc_tree_data();
     
     return 1;
+}
+
+sub read_newick {
+    my $treestr = "";
+    
+    while(<IN>) {
+        chomp;
+        $treestr .= $_;
+    }
+    
+    parse_newick($treestr);
 }
 
 sub write_newick {
@@ -1150,6 +1156,86 @@ sub read_slactree {
     if($resetroot) {
         $rootnode = $newroot;
     }
+}
+
+sub read_jplace_write_slactree {
+    my $jstr;
+    my $edgefield = 0;
+    my %abund;
+    
+    while(<IN>) {
+        chomp;
+        $jstr .= $_;
+    }
+
+    my $href = decode_json($jstr);
+    
+    if(exists(${$href}{'version'})) {
+        if(${$href}{'version'} < 3) {
+            print STDERR "WARNING: jplace format version ".${$href}{'version'}." deprecated, should be 3 or higher.\n";
+        }
+    }
+    
+    if(exists(${$href}{'tree'})) {
+        parse_newick(${$href}{'tree'});
+        
+    } else {
+        die "No tree found in jplace file\n";
+    }
+    
+    my $i=0;
+    foreach my $f (@{${$href}{'fields'}}) {
+        if($f eq 'edge_num') {
+            $edgefield = $i;
+        }
+        $i++;
+    }
+    
+    foreach my $pref (@{${$href}{'placements'}}) {
+        my @edgelist = ();
+        my @masslist = ();
+        
+        my $ppref = ${$pref}{'p'};
+        foreach my $plist (@{$ppref}) {
+            push(@edgelist, @{$plist}[$edgefield]);
+        }
+        
+        my $edgemass = 1;
+        if(exists(${$pref}{'m'})) {
+            $edgemass = ${$pref}{'m'};
+        }
+        
+        if(exists(${$pref}{'n'})) {
+            my $npref = ${$pref}{'n'};
+            foreach my $nlist (@{$npref}) {
+                push(@masslist, $edgemass);
+            }
+        }
+        
+        if(exists(${$pref}{'nm'})) {
+            my $nmpref = ${$pref}{'nm'};
+            foreach my $nmlist (@{$nmpref}) {
+                push(@masslist, @{$nmlist}[1]);
+            }
+        }
+        
+        foreach my $e (@edgelist) {
+            foreach my $m (@masslist) {
+                $abund{$e} += ($m / scalar(@edgelist));
+            }
+        }
+    }
+    
+    write_slactree();
+    
+    if(scalar(keys %abund) > 0) {
+        print OUT "\n";
+
+        foreach my $node (sort keys %abund) {
+            print OUT join("\t", ('abund', $node, $abund{$node}, '#FF0000'))."\n";
+        }
+    }
+    
 }
 
 # Calculate maximum x-value for drawing scale
@@ -2012,6 +2098,7 @@ Usage: slacTree.pl [command] (options)
 
   commands:
     newick2st     newick file -> basic slactree
+    jplace2st     jplace file -> slactree with abundances
     st2newick     slactree file -> newick
     tree          slactree file -> SVG
     density       slactree file -> density plot overlay SVG
@@ -2030,7 +2117,7 @@ HELP
 
 if($showhelp ||
    length($command) == 0 ||
-   !($command =~ /^(newick2st|st2newick|tree|density|zlim)/i) ||
+   !($command =~ /^(newick2st|jplace2st|st2newick|tree|density|zlim)/i) ||
    !($useSTDIN || length($infile)>0)) {
        
        die $help;
@@ -2043,6 +2130,9 @@ open_handles();
 if($command =~ /^newick2st/i) {
     read_newick();
     write_slactree();
+    
+} elsif($command =~ /^jplace2st/i) {
+    read_jplace_write_slactree();
     
 } elsif($command =~ /^st2newick/i) {
     read_slactree();
