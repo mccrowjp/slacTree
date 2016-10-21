@@ -1162,6 +1162,19 @@ sub read_jplace_write_slactree {
     my $jstr;
     my $edgefield = 0;
     my %abund;
+    my %idcolor;
+    my %abundcolor;
+    
+    if(length($taxfile) > 0) {
+        open(TAX, $taxfile) or die "Unable to open file $taxfile\n";
+        
+        while(<TAX>) {
+            chomp;
+            my ($id, $color) = split(/\t/);
+            $idcolor{$id} = $color;
+        }
+        close(TAX);
+    }
     
     while(<IN>) {
         chomp;
@@ -1194,6 +1207,7 @@ sub read_jplace_write_slactree {
     foreach my $pref (@{${$href}{'placements'}}) {
         my @edgelist = ();
         my @masslist = ();
+        my $placecolor = '#FF0000';
         
         my $ppref = ${$pref}{'p'};
         foreach my $plist (@{$ppref}) {
@@ -1216,10 +1230,14 @@ sub read_jplace_write_slactree {
             my $nmpref = ${$pref}{'nm'};
             foreach my $nmlist (@{$nmpref}) {
                 push(@masslist, @{$nmlist}[1]);
+                if(exists($idcolor{@{$nmlist}[0]})) {
+                    $placecolor = $idcolor{@{$nmlist}[0]};
+                }
             }
         }
         
         foreach my $e (@edgelist) {
+            $abundcolor{$e} = $placecolor;
             foreach my $m (@masslist) {
                 $abund{$e} += ($m / scalar(@edgelist));
             }
@@ -1232,7 +1250,7 @@ sub read_jplace_write_slactree {
         print OUT "\n";
 
         foreach my $node (sort keys %abund) {
-            print OUT join("\t", ('abund', $node, $abund{$node}, '#FF0000'))."\n";
+            print OUT join("\t", ('abund', $node, $abund{$node}, $abundcolor{$node}))."\n";
         }
     }
     
