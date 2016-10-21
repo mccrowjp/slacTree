@@ -73,7 +73,7 @@ Converts a newick tree file into a slactree file for editing or plotting in SVG.
    eg. Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Escherichia coli 
 
 ```bash
-slacTree.pl newick2st -i in.newick -t in.taxonomy.txt -o out.st
+> slacTree.pl newick2st -i infile.newick -t infile.taxonomy.txt -o outfile.st
 ```
 
 **jplace2st**
@@ -87,7 +87,7 @@ Converts a .jplace file (JSON format, from PPlacer) to a slactree file, includin
    abundance values seperated by color in the slactree file
 
 ```bash
-slacTree.pl jplace2st -i in.jplace -t in.taxa.colors -o out.st
+> slacTree.pl jplace2st -i infile.jplace -t infile.taxa.colors -o outfile.st
 ```
 
 **st2newick**
@@ -97,7 +97,7 @@ Outputs a newick tree file, from a slactree file.  Is useful if creating/editing
 -i input slactree file
 
 ```bash
-slacTree.pl st2newick -i in.st -o out.newick
+> slacTree.pl st2newick -i infile.st -o outfile.newick
 ```
 
 **tree**
@@ -109,7 +109,7 @@ Draws the annotated tree, output in SVG format.
 -z optional scaling factor to maintain a consistent scaling for multiple plots.  Run slacTree zlim command to calculate a value for each plot, prior to deciding on a single -z scaling factor to use.
 
 ```bash
-slacTree.pl tree -i in.st -z 0.924 -o out.svg
+> slacTree.pl tree -i infile.st -z 0.924 -o outfile.svg
 ```
 
 **density**
@@ -121,7 +121,7 @@ Draws the annotated tree, but with a density plot overlay based on abundance val
 -z optional scaling factor to maintain a consistent scaling for multiple plots.  Run slacTree zlim command to calculate a value for each plot, prior to deciding on a single -z scaling factor to use.
 
 ```bash
-slacTree.pl density -i in.st -z 0.924 -o out.svg
+> slacTree.pl density -i infile.st -z 0.924 -o outfile.svg
 ```
 
 **zlim**
@@ -131,9 +131,9 @@ Calculates the maximum z scaling factor for a slactree with abundances.  Use thi
 -i input slactree file
 
 ```bash
-slacTree.pl zlim -i in1.st
+> slacTree.pl zlim -i in1.st
 0.924
-slacTree.pl zlim -i in2.st
+> slacTree.pl zlim -i in2.st
 0.876
 ```
 
