@@ -61,7 +61,8 @@ options:
 
 Commands
 --------
-*newick2st*
+
+**newick2st**
 
 Converts a newick tree file into a slactree file for editing or plotting in SVG.
 
@@ -71,7 +72,11 @@ Converts a newick tree file into a slactree file for editing or plotting in SVG.
    the taxonomic assignment is a semi-colon delimited string of taxonomic ranks from high to low,
    eg. Bacteria;Proteobacteria;Gammaproteobacteria;Enterobacteriales;Enterobacteriaceae;Escherichia-Shigella;Escherichia coli 
 
-*jplace2st*
+```bash
+slacTree.pl newick2st -i in.newick -t in.taxonomy.txt -o out.st
+```
+
+**jplace2st**
 
 Converts a .jplace file (JSON format, from PPlacer) to a slactree file, including node abundances.
 
@@ -81,13 +86,21 @@ Converts a .jplace file (JSON format, from PPlacer) to a slactree file, includin
    if there are multiple groups or datasets combined in a single jplace file, then this allows creation of
    abundance values seperated by color in the slactree file
 
-*st2newick*
+```bash
+slacTree.pl jplace2st -i in.jplace -t in.taxa.colors -o out.st
+```
+
+**st2newick**
 
 Outputs a newick tree file, from a slactree file.  Is useful if creating/editing the tab delimited format of slactree, for export into other tree programs.  Can also be used to fix newick tree files in some cases by running newick2st followed by st2newick.
 
 -i input slactree file
 
-*tree*
+```bash
+slacTree.pl st2newick -i in.st -o out.newick
+```
+
+**tree**
 
 Draws the annotated tree, output in SVG format.
 
@@ -95,7 +108,11 @@ Draws the annotated tree, output in SVG format.
 
 -z optional scaling factor to maintain a consistent scaling for multiple plots.  Run slacTree zlim command to calculate a value for each plot, prior to deciding on a single -z scaling factor to use.
 
-*density*
+```bash
+slacTree.pl tree -i in.st -z 0.924 -o out.svg
+```
+
+**density**
 
 Draws the annotated tree, but with a density plot overlay based on abundance values.
 
@@ -103,12 +120,22 @@ Draws the annotated tree, but with a density plot overlay based on abundance val
 
 -z optional scaling factor to maintain a consistent scaling for multiple plots.  Run slacTree zlim command to calculate a value for each plot, prior to deciding on a single -z scaling factor to use.
 
-*zlim*
+```bash
+slacTree.pl density -i in.st -z 0.924 -o out.svg
+```
+
+**zlim**
 
 Calculates the maximum z scaling factor for a slactree with abundances.  Use this with multiple slactree files and choose the largest value to plot each using tree or density commands, in order to maintain a consistent scaling across all plots.
 
 -i input slactree file
 
+```bash
+slacTree.pl zlim -i in1.st
+0.924
+slacTree.pl zlim -i in2.st
+0.876
+```
 
 Dependencies
 ------------
