@@ -90,6 +90,7 @@ my $zlim;
 my $forceoverwrite;
 my $showhelp;
 my $useSTDIN;
+my $jplacebesthit;
 
 my $nodeabundfile;
 my $densityjpgfile;
@@ -1236,11 +1237,23 @@ sub read_jplace_write_slactree {
             }
         }
         
+        my $beste = @edgelist[0];
+        my $bestm = 0;
         foreach my $e (@edgelist) {
             $abundcolor{$e} = $placecolor;
             foreach my $m (@masslist) {
-                $abund{$e} += ($m / scalar(@edgelist));
+                if($jplacebesthit) {
+                    if($m > $bestm) {
+                        $bestm = $m;
+                        $beste = $e;
+                    } 
+                } else {
+                    $abund{$e} += ($m / scalar(@edgelist));
+                }
             }
+        }
+        if($jplacebesthit) {
+            $abund{$beste} += 1;
         }
     }
     
@@ -2100,7 +2113,8 @@ GetOptions ("i=s" => \$infile,
             "d=s" => \$densityfilebase,
             "z=f" => \$zlim,
             "f"   => \$forceoverwrite,
-            "h"   => \$showhelp);
+            "h"   => \$showhelp,
+            "jpbest" => \$jplacebesthit);
 
 my $command = shift;
 
@@ -2130,6 +2144,8 @@ Usage: slacTree.pl [command] (options)
     -o file       output file (default: STDOUT)
     -t file       taxonomic data file (optional)
     -z num        scaling factor (for multiple plots)
+    --jpbest      jplace abundance best hit only
+                  (default: all placements weighted by mass)
 
 HELP
 
